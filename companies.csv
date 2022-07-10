@@ -1,0 +1,2432 @@
+Company_ID,Name,State,Country
+1,Merck Sharp & Dohme Corporation,NJ,United States
+2,"COMSORT, Inc",MD,United States
+3,Daiichi Sankyo Company LTD,NA,Japan
+4,"C. R. Bard, Inc. & Subsidiaries",NJ,United States
+5,Novartis Pharma AG,NA,Switzerland
+6,K-V Pharmaceutical Company,MA,United States
+7,Sandoz Inc.,NJ,United States
+8,"ImClone Systems, LLC",NJ,United States
+9,National Dentex Corporation,FL,United States
+10,"LILLY USA, LLC",IN,United States
+11,SANOFI US SERVICES INC.,NJ,United States
+12,AdvanDx Inc.,MA,United States
+13,"Regeneron Pharmaceuticals, Inc.",NY,United States
+14,TearLab Corp,CA,United States
+15,Benco Dental Supply Co.,PA,United States
+16,"UCB, Inc.",GA,United States
+17,"ISTO TECHNOLOGIES, INC.",MO,United States
+18,SANOFI-AVENTIS U.S. LLC,NJ,United States
+19,Grunenthal USA Inc,NJ,United States
+20,MEDACTA USA,TN,United States
+21,"Endologix, Inc.",CA,United States
+22,"Millennium Pharmaceuticals, Inc.",MA,United States
+23,Musculoskeletal Transplant Foundation Inc.,NJ,United States
+24,Covidien LP,MA,United States
+25,"Blood Systems, Inc.",AZ,United States
+26,Creative Testing Solutions,AZ,United States
+27,"Takeda California, Inc.",CA,United States
+28,Eli Lilly and Company,IN,United States
+29,"Genentech, Inc.",CA,United States
+30,Fisher & Paykel Healthcare Inc,CA,United States
+31,Nestle HealthCare Nutrition Inc.,NJ,United States
+32,"SRS Medical Systems, Inc.",MA,United States
+33,"Norgenix Pharmaceuticals, LLC",SC,United States
+34,Novabone Products,FL,United States
+35,iSCI Holdings Inc.,MN,United States
+36,New Wave Surgical Corp.,FL,United States
+37,Covidien Sales LLC,MA,United States
+38,"Nautilus Neurosciences, Inc.",NJ,United States
+39,ViroPharma Incorporated,MA,United States
+40,"Streck, Inc.",NE,United States
+41,GLAUKOS CORPORATION,CA,United States
+42,"Zimmer Biomet Holdings, Inc.",IN,United States
+43,Hoffmann-La Roche Inc.,NJ,United States
+44,"CryoLife, Inc.",GA,United States
+45,"Medtronic, Inc.",MN,United States
+46,Osprey Medical Inc,MN,United States
+47,Gilead Sciences Inc,CA,United States
+48,Olive Medical Corporation,UT,United States
+49,"Caldera Medical, Inc",CA,United States
+50,"ASAHI INTECC USA, INC.",CA,United States
+51,"Otsuka Pharmaceutical Co., Ltd.",NA,Japan
+52,bioMerieux,NC,United States
+53,"LIPOSCIENCE, INC.",NC,United States
+54,Cardiovascular Systems Inc.,MN,United States
+55,"Gyrus ACMI, Inc.",MA,United States
+56,"Maxx Orthopedics, Inc.",PA,United States
+57,Ethicon Inc.,NJ,United States
+58,"Ipsen Biopharmaceuticals, Inc",MA,United States
+59,"Cardiosolutions, Inc.",MA,United States
+60,"EMD Serono, Inc.",MA,United States
+61,"Aegerion Pharmaceuticals, Inc.",MA,United States
+62,"ASCEND Therapeutics US, LLC",VA,United States
+63,"Uroplasty, Inc.",MN,United States
+64,"iRhythm Technologies, Inc.",CA,United States
+65,TriReme Medical LLC,CA,United States
+66,"Medimetriks Pharmaceuticals, Inc.",NJ,United States
+67,Pacira Pharmaceuticals Incorporated,NJ,United States
+68,Eisai Inc.,NJ,United States
+69,Astellas Pharma US Inc,IL,United States
+70,"Surefire Medical, Inc.",CO,United States
+71,"Teva Pharmaceuticals USA, Inc.",PA,United States
+72,"Advanced Orthopaedic Solutions, Inc.",CA,United States
+73,"BIOLASE, INC.",CA,United States
+74,Novo Nordisk Inc,NJ,United States
+75,AstraZeneca Pharmaceuticals LP,DE,United States
+76,SmartHealth Inc,AZ,United States
+77,"Pinnacle Biologics, Inc",IL,United States
+78,"Katena Products, Inc.",NJ,United States
+79,NeuroMetrix Inc,MA,United States
+80,"Marco Ophthalmic, Inc.",FL,United States
+81,"Braintree Laboratories, Inc.",MA,United States
+82,"Samsung Electronics America, Inc.",NJ,United States
+83,Novo Nordisk Health Care AG,NA,Switzerland
+84,ELLMAN INTERNATIONAL,NY,United States
+85,"STANDARD DIAGNOSTICS, INC.",NA,Korea (Republic of)
+86,"Janssen Supply Group, LLC",PA,United States
+87,AstraZeneca AB,NA,Sweden
+88,The Walman Optical Company,GA,United States
+89,AlloSource,CO,United States
+90,Novo Nordisk AS,NA,Denmark
+91,"Roche TCRC, Inc.",NY,United States
+92,PFIZER INTERNATIONAL LLC,NY,United States
+93,"MedImmune, LLC",MD,United States
+94,"Gyrus ENT, L.L.C.",TN,United States
+95,"Gyrus Medical, Inc.",MN,United States
+96,Olympus Corporation of the Americas,PA,United States
+97,"NIDEK CO., LTD.",NA,Japan
+98,Gulf Coast Regional Blood Center,TX,United States
+99,"Blue Belt Technologies, Inc.",PA,United States
+100,ZOLL Services LLC (A/K/A ZOLL LifeCor Corp),PA,United States
+101,"ALERE NORTH AMERICA, LLC",FL,United States
+102,Dynasplint Systems Inc.,MD,United States
+103,"FUJIFILM Medical Systems USA, Inc.",MA,United States
+104,Iconacy_Orthopedic_Implants_LLC,IN,United States
+105,VERTEX PHARMACEUTICALS INCORPORATED,MA,United States
+106,Dentsply Sirona Inc,PA,United States
+107,Mission Pharmacal Company,TX,United States
+108,Safco Dental Supply Co.,IL,United States
+109,"Milliken Healthcare Products, LLC",SC,United States
+110,"Digestive Care, Inc.",PA,United States
+111,ABB Con-Cise Optical Group LLC,FL,United States
+112,"Koven Technology, Inc.",MO,United States
+113,Novartis Consumer Health Inc.,NJ,United States
+114,Biogen Idec Inc.,MA,United States
+115,Daiichi Sankyo Inc.,NJ,United States
+116,"Ortho Kinematics, Inc.",TX,United States
+117,Validus Pharmaceuticals LLC,NJ,United States
+118,Philips Electronics North America Corporation,MA,United States
+119,"Alere San Diego, Inc.",CA,United States
+120,"DePuy Spine, LLC",MA,United States
+121,Premier Dental Products Company,PA,United States
+122,Amgen Inc.,CA,United States
+123,"AbbVie, Inc.",IL,United States
+124,Dux Industries Inc,CA,United States
+125,"Vascular Solutions, Inc.",MN,United States
+126,Lombard Medical Technologies Inc.,CA,United States
+127,LSI SOLUTIONS INC,NY,United States
+128,Novartis Vaccines and Diagnostics Inc,MA,United States
+129,Monteris Medical Corporation,MN,United States
+130,"ENTELLUS MEDICAL, INC.",MN,United States
+131,Volcano Corporation,CA,United States
+132,"Vital Images, Inc.",MN,United States
+133,"Roxane Laboratories, Inc.",OH,United States
+134,"IsoRay, Inc",WA,United States
+135,ACUMED LLC,OR,United States
+136,Horizon Orphan LLC,NA,Ireland
+137,Alcon Research Ltd,TX,United States
+138,"Noven Pharmaceuticals, Inc.",FL,United States
+139,"LENSAR, Inc.",FL,United States
+140,"Noven Therapeutics, LLC",FL,United States
+141,Mederi Therapeutics Inc,CT,United States
+142,"Tosoh Bioscience, Inc.",OH,United States
+143,"Hoya Surgical Optics, Inc",CA,United States
+144,"Cadwell Industries, INC",WA,United States
+145,"Genentech USA, Inc.",CA,United States
+146,STAAR SURGICAL COMPANY,CA,United States
+147,Novartis Pharmaceuticals Corporation,NJ,United States
+148,CONMED Corporation,NY,United States
+149,US Endoscopy,OH,United States
+150,"Janssen Pharmaceuticals, Inc",NJ,United States
+151,"Grifols Shared Services North America, Inc.",CA,United States
+152,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,United States
+153,"Avadel Pharmaceuticals (USA), Inc.",MO,United States
+154,Lundbeck LLC,IL,United States
+155,Spiracur Inc.,CA,United States
+156,Lineage Therapeutics Inc.,PA,United States
+157,Instrumentation Laboratory Company,MA,United States
+158,Alcon Pharmaceuticals Ltd,NA,Switzerland
+159,Shire US Holdings,PA,United States
+160,DASH Medical Gloves Inc,WI,United States
+161,MedOne Surgical Inc,FL,United States
+162,"Ironwood Pharmaceuticals, Inc",MA,United States
+163,Corcept Therapeutics,CA,United States
+164,"EXACTA Dental Products, Inc.",MI,United States
+165,"DePuy Institute, LLC",MA,United States
+166,Werfen USA LLC,MA,United States
+167,MEDICAL INVESTMENT ADVISORS LLC,GA,United States
+168,"Actelion Clinical Research, Inc.",NJ,United States
+169,Sunovion Pharmaceuticals Inc.,MA,United States
+170,"Alkermes, Inc.",MA,United States
+171,"Metrex Research, LLC",CA,United States
+172,"Fresenius USA Marketing, Inc.",MA,United States
+173,LEO Pharma Inc.,NJ,United States
+174,"PENTAX of America, Inc.",NJ,United States
+175,"Universal Hospital Services, Inc.",MN,United States
+176,Strategic Dentistry LLC,WA,United States
+177,Johnson & Johnson Health Care Systems Inc.,NJ,United States
+178,Incyte Corporation,DE,United States
+179,"Domain Surgical, Inc.",UT,United States
+180,"Asuragen, Inc.",TX,United States
+181,Toray International America Inc.,NY,United States
+182,"Aesculap, Inc.",PA,United States
+183,Stereotaxis Inc,MO,United States
+184,Flowonix Medical Incorporated,NJ,United States
+185,"Amphastar Pharmaceuticals, Inc.",CA,United States
+186,Convergent Dental Inc.,MA,United States
+187,XenoPort Inc.,CA,United States
+188,"Onyx Pharmaceuticals, Inc., an Amgen subsidiary",CA,United States
+189,"PruGen, Inc. Pharmaceuticals",AZ,United States
+190,Allergan Inc.,NJ,United States
+191,"Seattle Genetics, Inc.",WA,United States
+192,Canon Medical Systems Corporation,NA,Japan
+193,"Acute Innovations, LLC",OR,United States
+194,Implant Direct Sybron International LLC,NV,United States
+195,"Eisai Co., Ltd.",NA,Japan
+196,Endo Pharmaceuticals Inc.,PA,United States
+197,Pfizer Inc.,NY,United States
+198,Pfizer Pharmaceuticals Korea Limited,NA,Korea (Democratic People's Republic of)
+199,Helsinn Healthcare SA,NA,Switzerland
+200,Convatec Inc.,NJ,United States
+201,Osteogenics Biomedical Inc.,TX,United States
+202,Terumo Medical Corporation,NJ,United States
+203,KLS-Martin L.P.,FL,United States
+204,"Fresenius USA Manufacturing, Inc.",MA,United States
+205,Pfizer Pharmaceuticals LLC,PR,United States
+206,Thoratec Corporation,CA,United States
+207,GENZYME CORPORATION,MA,United States
+208,OrthoSensor Inc.,FL,United States
+209,SANOFI PASTEUR INC.,PA,United States
+210,Takeda Pharmaceuticals Puerto Rico LLC,IL,United States
+211,3M Company,MN,United States
+212,BIOVENTUS LLC,NC,United States
+213,"Osseus Fusion Systems, LLC",TX,United States
+214,"Ariosa Diagnostics, Inc.",CA,United States
+215,Ferring Pharmaceuticals Inc.,NJ,United States
+216,"St. Jude Medical, Inc.",MN,United States
+217,"OPTOS, INC.",MA,United States
+218,"nContact Surgical, Inc",NC,United States
+219,Verathon Inc.,WA,United States
+220,Duchesnay USA Incorporated,PA,United States
+221,B. Braun Medical Inc.,PA,United States
+222,Genetics Institute LLC,MA,United States
+223,"RTI Surgical, Inc.",FL,United States
+224,Xlumena,CA,United States
+225,"OCULUS, Inc.",WA,United States
+226,"Reliance Medical Products, Inc.",OH,United States
+227,Kensey Nash,PA,United States
+228,Pfizer Limited,NA,Great Britain (Uk)
+229,"Depomed, Inc.",IL,United States
+230,"Janssen Products, LP",PA,United States
+231,"DFINE, Inc",CA,United States
+232,"Carestream Health, Inc.",NY,United States
+233,"Janssen Biotech, Inc.",PA,United States
+234,"Draeger Medical Systems, Inc",PA,United States
+235,ELI LILLY EXPORT S.A. PUERTO RICO BRANCH,PR,United States
+236,"Janssen Scientific Affairs, LLC",NJ,United States
+237,Galil Medical Inc.,MN,United States
+238,PFIZER CORPORATION HONG KONG LIMITED,NA,Hong Kong
+239,"Takeda Pharmaceuticals International, Inc.",IL,United States
+240,"Takeda Pharmaceuticals U.S.A., Inc.",IL,United States
+241,"Takeda Development Center Americas, Inc.",IL,United States
+242,"Takeda Pharmaceuticals America, Inc.",IL,United States
+243,Haemonetics Corporation,MA,United States
+244,"Takeda Vaccines, Inc.",IL,United States
+245,Celgene Corporation,NJ,United States
+246,"Toshiba America Medical Systems, Inc.",CA,United States
+247,American Medical Systems Inc.,MN,United States
+248,"Covidien Caribbean, Inc.",PR,United States
+249,Beacon Endoscopic Corporation,CT,United States
+250,"Given Imaging, Inc.",CT,United States
+251,Given Imaging Ltd.,NA,Israel
+252,Spinal Modulation Inc.,CA,United States
+253,HET Systems LLC,MA,United States
+254,Ferring Research Institute Inc.,CA,United States
+255,"US WorldMeds, LLC",KY,United States
+256,"Kinamed, Inc.",CA,United States
+257,Olympus Corporation,NA,Japan
+258,"Baxano Surgical, Inc.",NC,United States
+259,MEDICOMP INC,FL,United States
+260,"ALERE HOME MONITORING, INC.",CA,United States
+261,Ferring International Pharmascience Center US,NJ,United States
+262,Ferring International Center SA,NA,Switzerland
+263,"FOREST LABORATORIES, INC.",NJ,United States
+264,"Lanx, Inc.",CO,United States
+265,ESSENTIAL DENTAL SYSTEMS INCORPORATED,NJ,United States
+266,"Vital Art and Science, LLC",TX,United States
+267,"Arthrex, Inc.",FL,United States
+268,"AtriCure, Inc.",OH,United States
+269,Ferring Pharmaceuticals AS,NA,Denmark
+270,"Merz, Inc.",NC,United States
+271,"Merz North America, Inc.",NC,United States
+272,Ferring Pharmaceuticals LTD,NA,Hong Kong
+273,"Kowa Pharmaceuticals America, Inc.",AL,United States
+274,The Spectranetics Corporation,CO,United States
+275,Ferring SA de CV,NA,Mexico
+276,"Ikaria,Inc.",NJ,United States
+277,"AVID RADIOPHARMACEUTICALS, INC.",PA,United States
+278,"Intuitive Surgical, Inc.",CA,United States
+279,"Medical Engineering and Development Institute, Inc.",IN,United States
+280,"Dr.Reddy's Laboratories,Inc.",NJ,United States
+281,"Hill-Rom Company, Inc",IN,United States
+282,"Hill-Rom Services, Inc",IN,United States
+283,"Advanced Respiratory, Inc",MN,United States
+284,ETEX Corporation,MA,United States
+285,"A-dec, Inc.",OR,United States
+286,"UHS Surgical Services, Inc.",MN,United States
+287,"Hill-Rom Services PTE, LTD",NA,Singapore
+288,Mazor Robotics Inc.,FL,United States
+289,"Johnson & Johnson Vision Care, Inc.",FL,United States
+290,ENVOY MEDICAL CORPORATION,MN,United States
+291,"Cheetah Medical, Inc.",WA,United States
+292,"Lantheus Medical Imaging, Inc.",MA,United States
+293,"DISCOVERY LABORATORIES, INC.",PA,United States
+294,Astellas Scientific and Medical Affairs,IL,United States
+295,"Turn-Key Medical, Inc.",ID,United States
+296,Alcon Laboratories Inc,TX,United States
+297,Astellas Pharma Global Development,IL,United States
+298,FUJIFILM Wako Diagnostics U.S.A. Corporation,CA,United States
+299,Bayer HealthCare LLC,NJ,United States
+300,Sorin Group USA Inc.,CO,United States
+301,Cordis Corporation,CA,United States
+302,"Sorin Group CRM USA, Inc",CO,United States
+303,Novocure Inc.,NH,United States
+304,AXOGEN,FL,United States
+305,bsn medical inc,NC,United States
+306,Codman & Shurtleff Inc.,MA,United States
+307,Purdue Pharma of Puerto Rico,CT,United States
+308,Roche Diagnostics Corporation,IN,United States
+309,"Grifols USA, LLC",CA,United States
+310,ABEON MEDICAL CORPORATION,OH,United States
+311,Grifols Therapeutics Inc.,CA,United States
+312,Grifols Biologicals LLC,CA,United States
+313,CTL Medical Corporation,TX,United States
+314,"Grifols, S.A.",NA,Spain
+315,"Renovis Surgical Technologies, Inc.",CA,United States
+316,Roche Health Solutions Inc.,IN,United States
+317,Medisystems Corporation,MA,United States
+318,Mallinckrodt LLC,MO,United States
+319,"KARL STORZ Lithotripsy-America, Inc.",GA,United States
+320,"Medline Industries, Inc.",IL,United States
+321,Purdue Pharma L.P.,CT,United States
+322,"Carl Zeiss Meditec, Inc.",CA,United States
+323,"MRI Interventions, Inc.",CA,United States
+324,Alcon Puerto Rico Inc,PR,United States
+325,Quidel Corporation,CA,United States
+326,Olympus Medical Systems Corporation,NA,Japan
+327,"Roche Diagnostics Operations, Inc.",IN,United States
+328,Applied Medical Technology Inc,OH,United States
+329,Whip Mix Corporation,KY,United States
+330,"Hospira, Inc.",IL,United States
+331,Alliance Partners LLC,TX,United States
+332,"Sterilmed, Inc.",MN,United States
+333,AMERICAN MEDICAL TECHNOLOGY INC,OH,United States
+334,"GlaxoSmithKline, LLC.",NC,United States
+335,"Neuronetics, Inc.",PA,United States
+336,Olympus America Inc.,PA,United States
+337,Central Blood Bank,PA,United States
+338,Purdue Products L.P.,CT,United States
+339,Purdue Transdermal Technologies L.P.,CT,United States
+340,"Smith & Nephew, Inc.",TN,United States
+341,"SonaCare Medical, LLC",NC,United States
+342,Rhodes Pharmaceuticals L.P.,RI,United States
+343,"VuCOMP, Inc.",TX,United States
+344,"Alexion Pharmaceuticals, Inc.",MA,United States
+345,"Brainlab, Inc.",IL,United States
+346,Kairos Surgical Inc,MA,United States
+347,"Safewire, LLC",FL,United States
+348,Bayer HealthCare Pharmaceuticals Inc.,NJ,United States
+349,Upsher-Smith Laboratories Inc.,MN,United States
+350,Arthrosurface Incorporated,MA,United States
+351,Novus Scientific Inc.,CA,United States
+352,"Johnson & Johnson Medical Devices & Diagnostics Group - Latin America, L.L.C.",FL,United States
+353,Lannett Company Inc,PA,United States
+354,Zogenix Inc.,CA,United States
+355,Celleration_Inc,MN,United States
+356,BD Rx Inc.,NJ,United States
+357,"Bard Access Systems, Inc.",UT,United States
+358,Dendreon Corporation,WA,United States
+359,"QIAGEN Sciences, LLC",MD,United States
+360,"BARD PERIPHERAL VASCULAR, INC.",AZ,United States
+361,Community Blood Center,OH,United States
+362,Quest Medical Inc.,TX,United States
+363,Insulet Corporation,MA,United States
+364,"Becton, Dickinson and Company",NJ,United States
+365,"Mindray DS USA, Inc.",NJ,United States
+366,"Bard International, Inc.",NJ,United States
+367,"NxStage Medical, Inc.",MA,United States
+368,"EndoEvolution, LLC",MA,United States
+369,DAVOL INC.,RI,United States
+370,"Lutonix, Inc.",MN,United States
+371,"Medafor, Inc.",MN,United States
+372,Evalve Inc.,CA,United States
+373,"Medivance, Inc.",CO,United States
+374,Rochester Medical Corporation,MN,United States
+375,Ultradent Products Inc,UT,United States
+376,"Neomend, Inc.",CA,United States
+377,"E.R. Squibb & Sons, L.L.C.",NJ,United States
+378,"Respiratory Technologies, Inc.",MN,United States
+379,CDC Medical LLC,OH,United States
+380,DePuy Mitek LLC,MA,United States
+381,"AngioDynamics, Inc.",NY,United States
+382,"Arbor Pharmaceuticals, Inc.",GA,United States
+383,"Young PS Acquisitions, LLC",IL,United States
+384,Ferring Pharmaceuticals LLC,NA,Russian Federation
+385,GE HEALTHCARE,WI,United States
+386,Ferring Pharmaceuticals Private Limited,NA,Singapore
+387,"CooperSurgical, Inc.",CT,United States
+388,"Sequent Medical, Inc.",CA,United States
+389,KARLSTORZ Endoscopy-America,CA,United States
+390,Bristol-Myers Squibb Company,NY,United States
+391,Mylan Inc.,PA,United States
+392,"Farallon Surgical, LLC",CA,United States
+393,Novartis Vaccines and Diagnostics S.r.l.,DC,United States
+394,Medrad Inc.,PA,United States
+395,Ipsen Bioscience Inc,MA,United States
+396,"FOREST RESEARCH INSTITUTE, INC.",NJ,United States
+397,ITxM Clinical Services,PA,United States
+398,"FOREST PHARMACEUTICALS, INC.",NJ,United States
+399,ITxM Diagnostics,PA,United States
+400,"CEREXA, INC.",NJ,United States
+401,"Globus Medical, Inc.",PA,United States
+402,"Joint Active Systems, Inc.",IL,United States
+403,"Alliqua  BioMedical, Inc.",PA,United States
+404,"ECR Pharmaceuticals Co., Inc.",VA,United States
+405,Ethicon Endo-Surgery Inc.,OH,United States
+406,InnoVision Incorporated,IN,United States
+407,"Cardinal Health P.R. 120, Inc.",OH,United States
+408,The Orthopaedic Implant Company,NV,United States
+409,"Sintea Plustek, LLC",FL,United States
+410,Boehringer Ingelheim International GmbH,NA,Germany
+411,Keystone Dental Inc.,MA,United States
+412,CLARITY MEDICAL SYSTEM,CA,United States
+413,CareFusion Corporation,CA,United States
+414,"Henry Schein, Inc.",NY,United States
+415,Small Bone Innovations Inc.,PA,United States
+416,Linvatec Corporation,FL,United States
+417,ViiV Healthcare Company,NC,United States
+418,"TriMed, Inc.",CA,United States
+419,Kerr Corporation,CA,United States
+420,Skeletal Kinetics LLC,TX,United States
+421,Helena Laboratories Corporation,TX,United States
+422,"Sunstar Americas, Inc.",IL,United States
+423,"Transenterix, Inc.",NC,United States
+424,ArthroCare Corporation,TX,United States
+425,"RMO, Inc.",CO,United States
+426,"Oticon Medical, LLC",NJ,United States
+427,"Clinical Innovations, LLC",UT,United States
+428,CSL Behring,PA,United States
+429,"Ellipse Technologies, Inc.",CA,United States
+430,"Olympus Latin America, Inc.",FL,United States
+431,LifeWatch Services Inc,IL,United States
+432,"Sysmex America, Inc.",IL,United States
+433,"Inogen, Inc.",CA,United States
+434,Cantel Medical Corp.,NJ,United States
+435,"SYNCARDIA SYSTEMS, INC",AZ,United States
+436,"Cadence Pharmaceuticals, Inc.",CA,United States
+437,Mylan Pharmaceuticals Inc.,WV,United States
+438,Mylan Specialty L.P.,WV,United States
+439,Mylan Institutional Inc.,IL,United States
+440,"Bio-Rad Laboratories, Inc.",CA,United States
+441,VIEWRAY INC,OH,United States
+442,"DJO, LLC",CA,United States
+443,Merz Pharmaceuticals GmbH,NA,Germany
+444,"Gyrus ACMI, L.P.",MN,United States
+445,Olympus Endo Technology America Inc.,MA,United States
+446,Corin USA,FL,United States
+447,"C. R. BARD FOUNDATION, INC.",NJ,United States
+448,"DARA Biosciences, Inc.",NC,United States
+449,"Hu-Friedy Mfg. Co., LLC",IL,United States
+450,Shionogi Inc,NJ,United States
+451,Avion Pharmaceuticals,GA,United States
+452,"Kowa Research Institute, Inc.",NC,United States
+453,"Janssen Research & Development, LLC",NJ,United States
+454,"Janssen Global Services, LLC",NJ,United States
+455,"Janssen Diagnostics, LLC",NJ,United States
+456,"Ortho-Stat Caribbean, Corp.",PR,United States
+457,"Vector Surgical, LLC",WI,United States
+458,Art Optical Contact Lens Inc.,MI,United States
+459,NICO Corporation,IN,United States
+460,"DePuy Synthes Products, Inc.",MA,United States
+461,Pylant Medical,TX,United States
+462,Quest Medical LLC,LA,United States
+463,Agfa HealthCare Corporation,SC,United States
+464,"Mercedes Medical, LLC",FL,United States
+465,HZNP USA Inc.,GA,United States
+466,Aesculap Akademie GmbH,NA,Germany
+467,Johnson and Johnson International,NJ,United States
+468,"Diagnosoft, Inc.",NC,United States
+469,Synthes USA Products LLC,PA,United States
+470,"Draeger, Inc",PA,United States
+471,"Align Technology, Inc.",CA,United States
+472,"Fukuda Denshi USA, Inc.",WA,United States
+473,DePuy Synthes Sales Inc.,MA,United States
+474,Orthofix International N.V.,TX,United States
+475,"VIVUS, Inc.",CA,United States
+476,"Cardica, Inc.",CA,United States
+477,"InControl Medical, LLC",WI,United States
+478,Gebauer Company,OH,United States
+479,EMD Millipore Corporation,MA,United States
+480,"EndoChoice, Inc.",GA,United States
+481,Ormco Corporation,CA,United States
+482,LifeNet Health Inc.,VA,United States
+483,"Advanced Fusion, LLC",TX,United States
+484,Bolton Medical Inc,FL,United States
+485,"ROCHE MOLECULAR SYSTEMS, INC.",CA,United States
+486,Allerderm  Laboratories,AZ,United States
+487,"Covis Pharmaceuticals, Inc.",NC,United States
+488,BioHorizons Implant Systems Inc.,AL,United States
+489,BIONESS INC,CA,United States
+490,"AKRIMAX PHARMACEUTICALS, LLC",NJ,United States
+491,"Liberty Surgical, Inc",PA,United States
+492,Jazz Pharmaceuticals Inc.,CA,United States
+493,"BIomet 3i, LLC",FL,United States
+494,"Biomet Biologics, LLC",IN,United States
+495,"FUKUDA DENSHI Co., Ltd.",NA,Japan
+496,Applied Medical Resources Corporation,CA,United States
+497,"Biomet Orthopedics, LLC",IN,United States
+498,Vision Quest Industries Inc.,CA,United States
+499,"Biomet Trauma, LLC",IN,United States
+500,"Biomet Sports Medicine, LLC",IN,United States
+501,"BIOMET INTERNATIONAL, LTD",IN,United States
+502,"Biomet Europe, Ltd",NA,Netherlands
+503,"Biomet Microfixation, LLC",FL,United States
+504,"BIOMET SPINE, LLC",NJ,United States
+505,"EBI Medical Systems, LLC",NJ,United States
+506,SEIKAGAKU CORPORATION,NA,Japan
+507,F. Hoffmann-La Roche AG,NA,Switzerland
+508,"Aesculap Implant Systems, LLC",PA,United States
+509,B. Braun Interventional Systems Inc.,PA,United States
+510,"Aesculap Biologics, LLC",PA,United States
+511,Aesculap AG,NA,Germany
+512,MicroAire Surgical Instruments LLC,VA,United States
+513,LEO Pharma AS,NA,Denmark
+514,"Biomet 3i Japan, Inc",NA,Japan
+515,Origio Inc.,NJ,United States
+516,"Nippon Boehringer Ingelheim Co., Ltd.",NA,Japan
+517,"Ortho-Clinical Diagnostics, Inc.",NJ,United States
+518,"Surgi-Care, Inc.",MA,United States
+519,Crosstex International Inc.,NY,United States
+520,"Cumberland Pharmaceuticals, Inc.",TN,United States
+521,BOSTON SCIENTIFIC CORPORATION,MA,United States
+522,B. Braun Surgical SA,NA,Spain
+523,H. Lundbeck A S,NA,Denmark
+524,"Gotham Surgical Solutions & Devices, Inc.",NY,United States
+525,"Spiration, Inc.",WA,United States
+526,RaySearch Laboratories AB (publ),NA,Sweden
+527,Olympus Biotech Corporation,MA,United States
+528,FIDIA PHARMA USA INC.,NJ,United States
+529,"DentalEZ, Inc.",PA,United States
+530,Encision Inc,CO,United States
+531,Septodont Inc.,PA,United States
+532,"SafeRay Spine, LLC",NC,United States
+533,"Taro Pharmaceuticals USA, Inc.",NY,United States
+534,"Electronic Waveform Lab, Inc.",CA,United States
+535,Straumann USA LLC,MA,United States
+536,GC America Inc.,IL,United States
+537,"Mar Cor Purification, Inc.",MN,United States
+538,"Atlas Spine, Inc.",FL,United States
+539,"Biosense Webster, Inc.",CA,United States
+540,INO Therapeutics LLC,NJ,United States
+541,Animas Corporation,PA,United States
+542,"DentalEZ Alabama, Inc.",PA,United States
+543,Masimo Corporation,CA,United States
+544,"Esaote North America, Inc.",IN,United States
+545,Medartis Inc.,PA,United States
+546,"Henry Schein Financial Services, LLC",NY,United States
+547,"FUJIFILM SonoSite, Inc.",WA,United States
+548,Henry Schein Practice Solutions Inc.,UT,United States
+549,Biomet 3i Australia Pty Ltd,NA,Australia
+550,"Medical Device Business Services, Inc.",IN,United States
+551,"Therakos, Inc.",PA,United States
+552,"LifeScan, Inc.",PA,United States
+553,Biotest Pharmaceuticals Corporation,FL,United States
+554,"Carestream Dental, LLC",GA,United States
+555,Biomet 3i Deutschland GMBH,NA,Germany
+556,"Horizon Pharma USA, Inc.",IL,United States
+557,"Balt USA, LLC",CA,United States
+558,"Henry Schein Puerto Rico, Inc.",PR,United States
+559,DePuy Products Inc.,IN,United States
+560,Biomet 3i Canada Inc,NA,Canada
+561,"GE Capital, Healthcare Financial Services, an unincorporated division of General Electric Capital Co",WI,United States
+562,Biomet 3i UK Ltd,NA,Great Britain (Uk)
+563,Dental Equipment LLC,NC,United States
+564,"diaDexus, Inc.",CA,United States
+565,Biomet 3i Mexico SA de CV,NA,Mexico
+566,KaVo Dental Technologies LLC,NC,United States
+567,"NDI Medical, LLC",OH,United States
+568,Hoffmann-La Roche Limited,NA,Canada
+569,Coopervision Inc.,NY,United States
+570,"Avanir Pharmaceuticals, Inc.",CA,United States
+571,Applied Medical Corporation,CA,United States
+572,Applied Medical Europe BV,NA,Netherlands
+573,"Preventice Services, LLC",TX,United States
+574,"Hansen Medical, Inc.",CA,United States
+575,Cochlear Americas,CO,United States
+576,"Ventana Medical Systems, Inc.",AZ,United States
+577,ResMed Corp,CA,United States
+578,"J. Morita USA, Inc.",CA,United States
+579,"KOWA COMPANY, LTD.",NA,Japan
+580,Roche Products Limited,NA,Great Britain (Uk)
+581,Institute for Transfusion Medicine,PA,United States
+582,"Molnlycke Health Care US, LLC",GA,United States
+583,Trilliant Surgical Ltd.,TX,United States
+584,AstraZeneca UK Limited,NA,Great Britain (Uk)
+585,Astellas Pharma Europe BV,NA,Netherlands
+586,"Reichert, Inc.",NY,United States
+587,CorMatrix Cardiovascular Inc.,GA,United States
+588,Perrigo Company plc,NA,Ireland
+589,"Galderma Laboratories, L.P.",TX,United States
+590,"BG Medicine, Inc.",MA,United States
+591,"Haag-Streit USA, Inc.",OH,United States
+592,Extremity Medical,NJ,United States
+593,Amarin Pharma Inc.,NJ,United States
+594,"Wenzel Spine, Inc.",TX,United States
+595,"Rockwell Medical, Inc.",MI,United States
+596,"Medtronic USA, Inc.",MN,United States
+597,"Medtronic Vascular, Inc.",MN,United States
+598,"Siesta Medical, Inc.",CA,United States
+599,"Medtronic Sofamor Danek USA, Inc.",MN,United States
+600,SPS Medical Supply Corp.,NY,United States
+601,"Medtronic Xomed, Inc.",MN,United States
+602,"TYRX, Inc.",MN,United States
+603,VAXSERVE INC.,PA,United States
+604,"Medtronic MiniMed, Inc.",MN,United States
+605,"Peter Brasseler Holdings, LLC",GA,United States
+606,Welch Allyn,NY,United States
+607,"Centinel Spine, Inc.",NY,United States
+608,"ConforMIS, Inc.",MA,United States
+609,"KCI USA, Inc",TX,United States
+610,"Anika Therapeutics, Inc.",MA,United States
+611,"LAKE REGION MANUFACTURING, INC. D.B.A. LAKE REGION MEDICAL",MN,United States
+612,"Lupin Pharmaceuticals, Inc",MD,United States
+613,HOLOGIC INC,MA,United States
+614,Atos Medical Inc,WI,United States
+615,"Cryo Ventures 6, LLC",MN,United States
+616,BioMarin Pharmaceutical Inc.,CA,United States
+617,Hollister Incorporated,IL,United States
+618,"Supreme Orthopedic Systems, LLC",MD,United States
+619,"RSW Medical Company, Inc.",SD,United States
+620,Sandhill Scientific,CO,United States
+621,"ACE Surgical Supply Co., Inc.",MA,United States
+622,"CHF Solutions, Inc",MN,United States
+623,"ALDEN OPTICAL LABORATORIES, INC",NY,United States
+624,Modern Orthopedic Consultants,CA,United States
+625,OPTIMER PHARMACEUTICALS INC,NJ,United States
+626,"RedMedical, LLC",FL,United States
+627,"CeloNova BioSciences, Inc.",TX,United States
+628,"Galena Biopharma, Inc.",CA,United States
+629,Phadia US Inc.,MI,United States
+630,"Wavetec Vision Systems, Inc.",CA,United States
+631,"Respicardia, Inc.",MN,United States
+632,Medinc of Texas,TX,United States
+633,ZOLL Circulation Inc,CA,United States
+634,"Advanced Bionics, LLC",CA,United States
+635,Prometheus Laboratories Inc.,CA,United States
+636,Merit Medical Systems Inc,UT,United States
+637,"Spinal Elements, Inc.",CA,United States
+638,The Medicines Company,NJ,United States
+639,"AngioScore, Inc.",CA,United States
+640,Boehringer Ingelheim Pty Ltd,NA,Australia
+641,"Roanoke Area Surgical Lasers, LLC",OH,United States
+642,"Chugai Pharmaceutical Co., Ltd.",NA,Japan
+643,"Medyssey USA, Inc",IL,United States
+644,"Sumitomo Dainippon Pharma Co., Ltd.",NA,Japan
+645,Boehringer Ingelheim France S.A.S.,NA,France
+646,OPTOS PLC,NA,Great Britain (Uk)
+647,"Cardinal Health 414, LLC",OH,United States
+648,"Cardinal Health 200, LLC",OH,United States
+649,"Cardinal Health 108, LLC",OH,United States
+650,"Cardinal Health 110, LLC",OH,United States
+651,"Epimed International, Inc",NY,United States
+652,MicrolineSurgical Inc,MA,United States
+653,"NeuroLogica Corporation, A Subsidiary of Samsung Electronics",MA,United States
+654,Cook Biotech Incorporated,IN,United States
+655,"Inova Diagnostics, Inc.",CA,United States
+656,Cook Medical Technologies LLC,IN,United States
+657,Southtech Orthopedics,NC,United States
+658,Wilson Cook Medical Incorporated,NC,United States
+659,"CSA Medical, Inc",MA,United States
+660,Cook Medical LLC,IN,United States
+661,Cook Incorporated,IN,United States
+662,Nextremity Solutions Inc.,IN,United States
+663,"Keystone Surgical Systems, Inc.",PA,United States
+664,Megadyne Medical Products Inc,UT,United States
+665,"Cardinal Health, Inc.",OH,United States
+666,"OPHTEC USA, Inc.",FL,United States
+667,MEDELA LLC,IL,United States
+668,Medwest Associates,IL,United States
+669,"Seyer Pharmatec, Inc.",PR,United States
+670,Gemini Medical LLC,MN,United States
+671,"SportsTek Medical, Inc",CA,United States
+672,"Mid-Atlantic Surgical Systems, LLC",PA,United States
+673,Mentor Worldwide LLC,CA,United States
+674,The Binding Site Inc.,CA,United States
+675,"Acclarent, Inc",CA,United States
+676,"Actelion Pharmaceuticals, Ltd",CA,United States
+677,Procedural Orthopedics Inc,AL,United States
+678,"Dexcom, Inc.",CA,United States
+679,"Apollo Surgical Group, LLC",KS,United States
+680,"Inland Surgical Products, LLC",CA,United States
+681,Peerless Surgical Inc.,NC,United States
+682,"FCI Ophthalmics, Inc.",MA,United States
+683,Meridian Bioscience Inc.,OH,United States
+684,"Dako North America, Inc",CA,United States
+685,Hydrogel Vision Corporation,FL,United States
+686,"PureLife, LLC",CA,United States
+687,Team 1 Orthopaedics Inc,FL,United States
+688,Goode Surgical Inc,NV,United States
+689,IMRIS INC.,MN,United States
+690,Materialise USA LLC,MI,United States
+691,"Navidea Biopharmaceuticals, Inc.",OH,United States
+692,"Ellex, Inc",MN,United States
+693,Tenex Health Inc.,CA,United States
+694,Boehringer Ingelheim Mexico SA de CV,NA,Mexico
+695,"Prodigy Surgical Distribution, Inc.",NY,United States
+696,"Active Medical, LLC",UT,United States
+697,"Somersault Orthopedics, Inc",CA,United States
+698,"Southern Surgical Solutions, LLC",TN,United States
+699,Ziemer USA,IL,United States
+700,Stryker Corporation,MI,United States
+701,Thoratec Europe Limited,NA,Great Britain (Uk)
+702,"Midwest Surgical Alliance, LLC",KS,United States
+703,"SONOMA ORTHOPEDICS, INC.",IL,United States
+704,"North Idaho Surgical Cooperative, LLC",ID,United States
+705,"Ozark Cryosurgery, LLC",OH,United States
+706,"Innovative Lasers, LLC",OH,United States
+707,"Innovative Cryosurgery, LLC",OH,United States
+708,Boehringer Ingelheim Thai Ltd,NA,Thailand
+709,Ipsen Innovation,NA,France
+710,"RARE DISEASE THERAPEUTICS, INC.",TN,United States
+711,STERIS Corporation,OH,United States
+712,"Cryo Specialty Medical, LLC",OH,United States
+713,"Pentax Medcial Shanghai Co., Ltd",NA,China
+714,"BioPro, Inc.",MI,United States
+715,McKesson Specialty Care Distribution Corp.,TX,United States
+716,"Great Lakes Medical Services, LLC",OH,United States
+717,"Auxilium Pharmaceuticals, Inc.",PA,United States
+718,"Clariance, Inc.",IL,United States
+719,"Laser Specialty Medical, LLC",OH,United States
+720,Valneva Austria GmbH,NA,Austria
+721,Pharmedium Services LLC,IL,United States
+722,"Pinnacle, Inc",MI,United States
+723,"R&M Distributing, LLC",WI,United States
+724,SCS Boehringer Ingelheim Comm.V,NA,Belgium
+725,Reckitt Benckiser LLC,NJ,United States
+726,Dental Material Gesellschaft mbH,NA,Germany
+727,"Intuitive Surgical Operations, Inc.",CA,United States
+728,Cochlear Medical Device Beijing Co Ltd,NA,China
+729,Kuraray America Inc.,NY,United States
+730,Boehringer Ingelheim Canada Ltd.Ltee,NA,Canada
+731,Cochlear HK Ltd,NA,Hong Kong
+732,Luitpold Pharmaceuticals Inc,NY,United States
+733,Cochlear Ltd,NA,Australia
+734,Ortho Development Corporation,UT,United States
+735,Boehringer Ingelheim Ilac Ticaret A.S.,NA,Turkey
+736,Exelixis Inc.,CA,United States
+737,WARDLOW ENTERPRISES,IA,United States
+738,"GenMark Diagnostics, Inc.",CA,United States
+739,"FFF Enterprises, Inc.",CA,United States
+740,"Spine Wave, Inc.",CT,United States
+741,"ARIAD Pharmaceuticals, Inc.",MA,United States
+742,"Abraxis BioScience, LLC",NJ,United States
+743,"Affordable Pharmaceuticals, LLC",MA,United States
+744,"OMNIlife science, Inc",MA,United States
+745,"Aptis Medical, LLC",KY,United States
+746,SeaPearl Inc,NJ,United States
+747,"Trividia Health, Inc.",FL,United States
+748,Biocomposites Inc,NC,United States
+749,Harvest Technologies Corp.,MA,United States
+750,Nobel Biocare USA,CA,United States
+751,"Crossroads Orthopedics, LLC",IN,United States
+752,Micromed Inc,CA,United States
+753,"Ivoclar Vivadent, Inc.",NY,United States
+754,TOSHIBA MEDICAL RESEARCH INSTITUTE USA INC.,IL,United States
+755,Gentleman Orthopedic Solutions,TN,United States
+756,JustRight Surgical LLC,CO,United States
+757,LIFECELL CORPORATION,NJ,United States
+758,"Meisinger USA, LLC",CO,United States
+759,"ROCK MEDICAL ORTHOPEDICS, INC.",OH,United States
+760,Questcor Pharmaceuticals,CA,United States
+761,Accuray Incorporated,CA,United States
+762,Medical Graphics Corporation,MN,United States
+763,ORTHALIGN INC,CA,United States
+764,Avinger Inc.,CA,United States
+765,"ReVision Optics, Inc.",CA,United States
+766,"4WEB, INC.",TX,United States
+767,"Mercator MedSystems, Inc.",CA,United States
+768,"Orthopedic Sciences, Inc.",CA,United States
+769,BIOTRONIK INC.,OR,United States
+770,"Ceterix Orthopaedics, Inc.",CA,United States
+771,"Sientra, Inc.",CA,United States
+772,"Penumbra, Inc.",CA,United States
+773,Ipsen Biopharm Limited,NA,Great Britain (Uk)
+774,OMNI SURGICAL LLC,TX,United States
+775,Liventa Biosciences Inc.,PA,United States
+776,"Nonin Medical, Inc.",MN,United States
+777,"Buffalo Filter, LLC",NY,United States
+778,"Owens & Minor Distribution, Inc.",VA,United States
+779,Olea Medical,NA,France
+780,ERBE USA Inc,GA,United States
+781,PSS World Medical Inc.,FL,United States
+782,"Sensus Healthcare, Inc.",FL,United States
+783,"Precision Spine, Inc.",NJ,United States
+784,CAS Medical Systems Inc.,CT,United States
+785,Medivators Inc.,MN,United States
+786,American Orthodontics Corporation,WI,United States
+787,Tulsa Dental Products LLC,PA,United States
+788,"Siemens Hearing Instruments, Inc.",NJ,United States
+789,AmerisourceBergen Drug Corporation,PA,United States
+790,"LDR SPINE USA, INC",TX,United States
+791,"ProStrakan, Inc.",NJ,United States
+792,"NEW WORLD MEDICAL,INC.",CA,United States
+793,Cubist Pharmaceuticals Inc,MA,United States
+794,LDR MEDICAL,NA,France
+795,Vitaphone_USA_Corporation,NV,United States
+796,Clinician's Choice Dental Products Inc.,NA,Canada
+797,Theravance Biopharma Inc.,CA,United States
+798,"Cayenne Medical, Inc.",IN,United States
+799,"SS White Burs, Inc.",NJ,United States
+800,Tokuyama Dental America Inc.,CA,United States
+801,Warner Chilcott LLC,NJ,United States
+802,Pronova Corporation,FL,United States
+803,Catheter Robotics Inc.,NJ,United States
+804,Desert Mountain Medical,AZ,United States
+805,Boehringer Ingelheim b.v.,NA,Netherlands
+806,Boehringer Ingelheim Ltda,NA,Chile
+807,"Heidelberg Engineering, Inc.",MA,United States
+808,"Devicor Medical Products, Inc.",OH,United States
+809,APO-PHARMA INC.,NA,Canada
+810,Corindus Inc.,MA,United States
+811,"Beaver-Visitec International, Inc.",MA,United States
+812,"KARL STORZ ENDOVISION, INC.",MA,United States
+813,"Pacific Medical, Inc",CA,United States
+814,"KARL STORZ IMAGING, INC.",CA,United States
+815,Raintree Essix Inc,PA,United States
+816,Monaghan Medical Corporation,NY,United States
+817,INNOCUTIS Holdings LLC,SC,United States
+818,Edwards Lifesciences Corporation,CA,United States
+819,"New York Blood Center, Inc.",NY,United States
+820,LEICA MICROSYSTEMS INC.,IL,United States
+821,Materialise Dental Inc,PA,United States
+822,"Intersect ENT, Inc.",CA,United States
+823,Maillefer Instruments Holding Sarl,PA,United States
+824,Reverse Medical Corporation,CA,United States
+825,"KARL STORZ Endoscopia Mexico, S.A.",NA,Mexico
+826,Actavis Pharma Inc,NJ,United States
+827,HF Acquisition Co. LLC,WA,United States
+828,"Den-Mat Holdings, LLC",CA,United States
+829,"TOPCON MEDICAL SYSTEMS, INC.",NJ,United States
+830,Theragenics Corporation,GA,United States
+831,Astellas Pharma Inc,NA,Japan
+832,Hyperion Therapeutics Inc.,CA,United States
+833,"Tandem Diabetes Care, Inc.",CA,United States
+834,Amedica Corporation,UT,United States
+835,Midsouth Orthopedics,AR,United States
+836,"NuVasive, Inc.",CA,United States
+837,McKesson Corporation,TX,United States
+838,ICU Medical Inc,CA,United States
+839,"Impulse Monitoring, Inc.",MD,United States
+840,"OrthoPro, LLC",UT,United States
+841,"Terumo BCT, Inc.",CO,United States
+842,Boehringer Ingelheim Korea Ltd.,NA,Korea (Democratic People's Republic of)
+843,Boehringer Ingelheim Hong Kong Ltd,NA,Hong Kong
+844,Boehringer Ingelheim Taiwan Ltd.,NA,Taiwan
+845,Dyax Corp,MA,United States
+846,"Valneva USA, Inc.",MD,United States
+847,Ipsen Pharma SAS,NA,France
+848,Ther-Rx Corporation,MO,United States
+849,GAC International LLC,PA,United States
+850,Dentsply US Prosthetics LLC,PA,United States
+851,Olympus Winter & Ibe GmbH,NA,Germany
+852,"NormaTec Industries, LP",MA,United States
+853,DENTSPLY LLC,PA,United States
+854,"LeMaitre Vascular, Inc.",MA,United States
+855,DS Healthcare Inc,PA,United States
+856,DENTSPLY IH Inc.,PA,United States
+857,"Synergeyes, Inc.",CA,United States
+858,AMD Lasers LLC,PA,United States
+859,Abbott Laboratories,IL,United States
+860,OptiMedica Corporation,CA,United States
+861,"IDev Technologies, Inc.",TX,United States
+862,"NovoSource, Inc.",OH,United States
+863,"GLYCOMARK, INC.",NY,United States
+864,DENTSPLY Mexico SA de CV,PA,United States
+865,"RF Surgical Systems, Inc.",CA,United States
+866,DENTSPLY IH AB,PA,United States
+867,"ONY, Inc.",NY,United States
+868,DENTSPLY DeTrey GmbH,PA,United States
+869,"Interventional Spine, Inc.",CA,United States
+870,DENTSPLY Canada Ltd,PA,United States
+871,"Impax Laboratories, Inc.",CA,United States
+872,"Titan Spine, LLC",WI,United States
+873,"Vertiflex, Inc.",CA,United States
+874,"NEUROPACE, INC.",CA,United States
+875,"Blue Sky Bio, LLC",IL,United States
+876,"Octapharma USA, Inc.",NJ,United States
+877,Dental Imaging Technologies Corp.,PA,United States
+878,"ARGON MEDICAL DEVICES, INC.",TX,United States
+879,TOPCON CORPORATION,NA,Japan
+880,"ALK-Abello, Inc",TX,United States
+881,"Fresenius Kabi USA, LLC",IL,United States
+882,Ansell Healthcare Products LLC,NJ,United States
+883,"Synergetics USA, Inc",MO,United States
+884,"Smiths Medical ASD, Inc.",MN,United States
+885,Alpha Orthopedic Systems,KY,United States
+886,"Geistlich Pharma, North America, Inc.",NJ,United States
+887,Captiva Spine Inc,FL,United States
+888,"K2M, Inc.",VA,United States
+889,"Ortho Organizers, Inc.",CA,United States
+890,"Eurofins Viracor, Inc.",MO,United States
+891,Halozyme Inc,CA,United States
+892,Banyan International Corporation,WA,United States
+893,"Life Spine, Inc.",IL,United States
+894,Vioptix Inc,CA,United States
+895,Nidek Incorporated,CA,United States
+896,"Access Closure, Inc",OH,United States
+897,"Otsuka America Pharmaceutical, Inc.",MD,United States
+898,"Maquet Cardiovascular U.S. Sales, L.L.C.",NJ,United States
+899,"Otsuka Pharmaceutical Development & Commercialization, Inc.",NJ,United States
+900,OrthoPediatrics Corp.,IN,United States
+901,GUERBET LLC,NJ,United States
+902,Boehringer Ingelheim Shanghai Pharmaceuticals Co Ltd.,NA,China
+903,"Sucampo Pharma Americas, LLC",MD,United States
+904,"Alere Informatics, Inc.",VA,United States
+905,"Vista Orthopedics, LLC",NM,United States
+906,"Ortho Restore, LLC",CA,United States
+907,Roche Diagnostics International Ltd,NA,Switzerland
+908,"Mesa Surgical, LLC",CO,United States
+909,United Therapeutics Corporation,NC,United States
+910,ABIOMED,MA,United States
+911,"Lima USA, Inc.",TX,United States
+912,Photocure Inc,NJ,United States
+913,"Central California Surgical Distributors, LLC",CA,United States
+914,"EMPI, INC.",MN,United States
+915,"Alpine Surgical Technologies, LLC",TX,United States
+916,"Stanmore, Inc.",TX,United States
+917,"Alpine Implant Alliance, LLC",CA,United States
+918,Roche Diagnostics GmbH,NA,Germany
+919,Tactile Systems Technology Inc,MN,United States
+920,"ENCORE MEDICAL, LP",TX,United States
+921,West Coast Cryotherapy LP,TX,United States
+922,"RIKCO INTERNATIONAL, LLC",WI,United States
+923,"Siemens Medical Solutions USA, Inc.",PA,United States
+924,"Helix Medical, LLC",MA,United States
+925,Medical Modeling Inc.,CO,United States
+926,Luminex Corporation,TX,United States
+927,DIagnostica Stago SAS,NA,France
+928,Advanced Circulatory Systems Inc.,MN,United States
+929,"Visualase, Inc.",TX,United States
+930,"Hiossen, Inc.",PA,United States
+931,Systagenix Wound Management Inc.,MA,United States
+932,Midmark Corporation,OH,United States
+933,"Aptalis Pharma US, Inc",NJ,United States
+934,"Santarus, Inc",NC,United States
+935,"McKesson Medical-Surgical, Inc.",VA,United States
+936,"FERA PHARMACEUTICALS, LLC",NY,United States
+937,"Renaissance Pharma, Inc.",PA,United States
+938,SANOFI PASTEUR BIOLOGICS LLC,MA,United States
+939,PULPDENT CORPORATION,MA,United States
+940,UCB SA,NA,Belgium
+941,"W. L. Gore & Associates, Inc.",DE,United States
+942,"Dakota Sciences, LLC",SD,United States
+943,UCB GmBH,NA,Germany
+944,"Rapid PAthogen Screening, Inc.",FL,United States
+945,Phadia AB,NA,Sweden
+946,UCB Biosciences Inc.,NC,United States
+947,"Neighborhood Diabetes, Inc.",MA,United States
+948,Richard-Allan Scientific Company,MI,United States
+949,"Remel, Inc.",KS,United States
+950,Atrium Medical Corporation,NH,United States
+951,Brahms GmbH,NA,Germany
+952,"Derma Sciences, Inc.",NJ,United States
+953,"One Lambda, Inc.",CA,United States
+954,"Hitachi Aloka Medical, Ltd.",CT,United States
+955,Microgenics Corporation,CA,United States
+956,Fisher Scientific Company L.L.C.,VA,United States
+957,"Galderma Research & Development, LLC",TX,United States
+958,iScreen Vision Inc.,TN,United States
+959,Life Technologies Corporation,CA,United States
+960,"Salix Pharmaceuticals, Ltd",NC,United States
+961,"DermaRite Industries, LLC",NJ,United States
+962,"Cardiac Assist, Inc.",PA,United States
+963,CARTER BLOODCARE,TX,United States
+964,"Acorda Therapeutics, Inc",NY,United States
+965,"Highline Surgical Solutions, LLC",CO,United States
+966,"180 Medical, Inc.",OK,United States
+967,"TOLMAR, INC.",CO,United States
+968,"QOL Medical, LLC",FL,United States
+969,"CVRx, Inc.",MN,United States
+970,"Marine Polymer Technologies, Inc.",MA,United States
+971,"MLH-RX, LLC",MO,United States
+972,"Actelion Pharmaceuticals US, Inc.",CA,United States
+973,"Tornier, Inc.",MN,United States
+974,Osteomed LLC,TX,United States
+975,"SpineGuard, Inc.",CO,United States
+976,"Safe Orthopaedics, LLC",IL,United States
+977,"Ceptaris Therapeutics, Inc.",CA,United States
+978,"THE CAMERON-EHLEN GROUP, INC.",MN,United States
+979,"Anaeropahrma Science, Inc.",NA,Japan
+980,Boehringer Ingelheim Pharma GmbH & Co.KG,NA,Germany
+981,Boehringer Ingelheim RCV GmbH & Co KG,NA,Austria
+982,"ASAHI INTECC CO., LTD.",NA,Japan
+983,"McKesson Technologies, Inc.",GA,United States
+984,"Vertebral Technologies, Inc.",MN,United States
+985,"Clinical Technology, Inc",OH,United States
+986,"Diagnostica Stago, Inc",NJ,United States
+987,"Afaxys, Inc.",SC,United States
+988,"Exeltis USA, Inc.",NJ,United States
+989,Transonic Systems Inc.,NY,United States
+990,Artegraft Inc.,NJ,United States
+991,Datascope Corp.,NJ,United States
+992,Novocure Israel Ltd,NA,Israel
+993,DMG AMERICA LLC,NJ,United States
+994,Lung Biotechnology Corp,MD,United States
+995,ZOLL Medical Corporation,MA,United States
+996,Panoramic Rental Corp.,IN,United States
+997,"D4D Technologies, LLC",TX,United States
+998,"Young Dental Manufacturing I, LLC",MO,United States
+999,Skyline Medical Inc.,MN,United States
+1000,Young OS LLC,IL,United States
+1001,Molnlycke Health Care AB,NA,Sweden
+1002,"Konica Minolta Healthcare Americas, Inc",NJ,United States
+1003,Reckitt Benckiser Pharmaceuticals Inc.,VA,United States
+1004,"Varian Medical Systems, Inc.",CA,United States
+1005,"X-spine Systems, Inc.",MT,United States
+1006,"Pernix Therapeutics Holdings, Inc.",NJ,United States
+1007,Draegerwerk AG & Co. KGaA,NA,Germany
+1008,Alfred E. Mann Foundation for Scientific Research,CA,United States
+1009,"CARDIVA MEDICAL, INC.",CA,United States
+1010,"VisionCare Ophthalmic Technologies, Inc.",CA,United States
+1011,Medivation Inc.,CA,United States
+1012,"Hitachi Medical Systems America, Inc.",OH,United States
+1013,"Chiesi USA, Inc.",NC,United States
+1014,Digirad Corporation,CA,United States
+1015,"Neoventa Medical, Inc.",MA,United States
+1016,Luminex Molecular Diagnostics,NA,Canada
+1017,Bacterin International Inc,MT,United States
+1018,Maquet Cardiovascular L.L.C.,NJ,United States
+1019,Akorn Inc.,IL,United States
+1020,"APO-PHARMA USA, INC.",FL,United States
+1021,"ZILA, INC.",CO,United States
+1022,"Central Dallas Surgical Supply, LLC",TN,United States
+1023,"Bio Products Laboratory, Inc.",NC,United States
+1024,"Fort Worth Surgical Supply, LLC",TN,United States
+1025,"North Alabama Surgical Services GP, LLC",TN,United States
+1026,"Valeritas, Inc.",NJ,United States
+1027,"North Alabama Surgical Services, LLC",TN,United States
+1028,"Vermillion, Inc.",TX,United States
+1029,"Beckman Coulter, Inc.",CA,United States
+1030,"Metric Medical Devices, Inc.",TX,United States
+1031,"North Texas Surgical Services, LLC",TN,United States
+1032,"Aquesys, Inc.",CA,United States
+1033,"PDP Holdings, LLC",TN,United States
+1034,Advanced Medical Partners Inc,TX,United States
+1035,"San Francisco Surgical Services, LLC",TN,United States
+1036,OsteoReady LLC,MA,United States
+1037,SIGN Fracture Care International,WA,United States
+1038,"Sunquest Information Systems, Inc.",AZ,United States
+1039,"Applied Medical Australia, Pty, Ltd.",NA,Australia
+1040,"Takeda Pharmaceutical Company, Limited",NA,Japan
+1041,Boehringer Ingelheim Malaysia Sdn. Bhd.,NA,Malaysia
+1042,Algeta US LLC,MA,United States
+1043,Arizona Cryosurgical Partnership LP,TX,United States
+1044,Atlantic Coast Cryotherapy LP,TX,United States
+1045,Capitol Cryotherapy LP,TX,United States
+1046,"Endocare, Inc.",TX,United States
+1047,Gulf States Cryotherapy LP,TX,United States
+1048,Illinois Cryotherapy LP,TX,United States
+1049,Kansas Cryosurgery Associates LLC,TX,United States
+1050,Memphis Cryo Associates LP,TX,United States
+1051,"Precision Therapeutics, Inc.",PA,United States
+1052,Michigan Mobile Urology Services LLC,TX,United States
+1053,"VGI Medical, LLC",FL,United States
+1054,Mobile Cryosurgical Partners LP,TX,United States
+1055,New England Cryotherapy LP,TX,United States
+1056,Northeast Cryotherapy LP,TX,United States
+1057,Oklahoma Urologic Therapies LP,TX,United States
+1058,Rocky Mountain Cryotherapy LP,TX,United States
+1059,SEFL Cryo Associates LLC,TX,United States
+1060,Southeast Cryotherapy LP,TX,United States
+1061,Tri-State Cryosurgical Partnerships LP,TX,United States
+1062,"InSightec,Inc",TX,United States
+1063,ENDOCO Inc dba Ultimate Dental,TN,United States
+1064,"InSightec,LTD",NA,Israel
+1065,"Dornier MedTech America, Inc",GA,United States
+1066,Belmont Instrument LLC,MA,United States
+1067,MAKO Surgical Corp.,FL,United States
+1068,"Fujirebio Diagnostics, Incorporated",PA,United States
+1069,Sirtex Medical Inc,MA,United States
+1070,"ASD SPECIALTY HEALTHCARE, LLC",TX,United States
+1071,"NPS Pharmaceuticals, Inc.",NJ,United States
+1072,"Medspira, LLC",MN,United States
+1073,"M2S, Inc",NH,United States
+1074,"Universal Medical, Inc.",PA,United States
+1075,Amniox Medical,FL,United States
+1076,BioMedical Enterprises Inc,TX,United States
+1077,"MicroVention, Inc.",CA,United States
+1078,"Cosmedent, Inc.",IL,United States
+1079,"Braemar Manufacturing, LLC",PA,United States
+1080,"Arjohuntleigh, Inc.",IL,United States
+1081,Dynatronics Corp.,UT,United States
+1082,Maquet Cardiopulmonary AG,NA,Germany
+1083,Cepheid,CA,United States
+1084,Valeant Pharmaceuticals North America LLC,NJ,United States
+1085,"Alexza Pharmaceuticals, Inc.",CA,United States
+1086,Bausch and Lomb Inc.,NY,United States
+1087,Aero-Med LTD,OH,United States
+1088,Boehringer Ingelheim S.A.,NA,Argentina
+1089,"Innovative Ophthalmic Products, Inc.",CA,United States
+1090,Georgia Cryotherapy LP,TX,United States
+1091,"Summit Pharmaceuticals DBA Enemeez, Inc.",AZ,United States
+1092,"Wound Care Technologies, Inc.",MN,United States
+1093,Midwest Cryotherapy LP,TX,United States
+1094,"Cyberonics, Inc.",TX,United States
+1095,"AMAG Pharmaceuticals, Inc.",MA,United States
+1096,"Innovative Medical Products, Inc.",CT,United States
+1097,Integra LifeSciences Corporation,NJ,United States
+1098,"SurgiQuest, Inc.",CT,United States
+1099,"Radiometer America, Inc.",OH,United States
+1100,Galen US Inc,PA,United States
+1101,Baylis Medical Company Inc,NA,Canada
+1102,KADMON PHARMACEUTICALS LLC,PA,United States
+1103,Novian Health Inc.,IL,United States
+1104,Specialty Surgical Instrumentation,TN,United States
+1105,"ABL Medical, LLC",UT,United States
+1106,"ThromboGenics, Inc.",NJ,United States
+1107,RT Oncology Services Corporation,CA,United States
+1108,"VisionScope Technologies, LLC",MA,United States
+1109,Volpara Solutions Ltd,NA,New Zealand
+1110,"Endogastric Solutions, Inc",WA,United States
+1111,"Paragon 28, Inc.",CO,United States
+1112,Vansen Pharma Inc.,NV,United States
+1113,Jan Medical Inc.,CA,United States
+1114,"NovaBay Pharmaceuticals, Inc.",CA,United States
+1115,"Halt Medical, INC",CA,United States
+1116,"MacuLogix, Inc.",PA,United States
+1117,"Interrad Medical, Inc.",MN,United States
+1118,"SeaSpine, Inc.",CA,United States
+1119,Kadmon Corporation LLC,NY,United States
+1120,"Theken Spine, LLC",CA,United States
+1121,"Lumenis, Inc",CA,United States
+1122,Pulmonx Corporation,CA,United States
+1123,"Nihon Kohden America, Inc.",CA,United States
+1124,"IsoTis OrthoBioligics, Inc.",CA,United States
+1125,"American Medical & Dental Supplies,Inc.",NJ,United States
+1126,"Exactech, Inc.",FL,United States
+1127,Synergy Medical Systems LLC,OR,United States
+1128,"Silk Road Medical, Inc.",CA,United States
+1129,"Topera, Inc.",CA,United States
+1130,Atossa Genetics Inc,WA,United States
+1131,Zyga Technology Inc,MN,United States
+1132,"Par Pharmaceutical, Inc.",NY,United States
+1133,Southern Surgical Supply LLC,GA,United States
+1134,"Integra York PA, Inc.",PA,United States
+1135,"Ascension Orthopedics, Inc.",TX,United States
+1136,"Integra Burlington MA, Inc",MA,United States
+1137,Integra LifeSciences France LLC,NJ,United States
+1138,Integra  LifeSciences Sales LLC,NJ,United States
+1139,"Integra Sales, Inc.",NJ,United States
+1140,"OPTOVUE, INC.",CA,United States
+1141,Promius Pharma LLC,NJ,United States
+1142,MED-EL Corporation,NC,United States
+1143,"Heraeus Kulzer, LLC",IN,United States
+1144,"OmniGuide, Inc.",MA,United States
+1145,"Trivascular, Inc.",CA,United States
+1146,Inova Labs Inc,TX,United States
+1147,"CoreLink, LLC",MO,United States
+1148,"Nutech Spine, Inc.",AL,United States
+1149,"NinePoint Medical, Inc.",MA,United States
+1150,Fisher & Paykel Healthcare Limited,NA,New Zealand
+1151,"Wound Management Technologies, Inc",TX,United States
+1152,"Solana Surgical, LLC",TN,United States
+1153,Baxter Healthcare,IL,United States
+1154,Invacare Corporation,OH,United States
+1155,"Marathon Pharmaceuticals, LLC",IL,United States
+1156,"MIS Implants Technologies, Inc.",NJ,United States
+1157,"Physician Discoveries, LLC",NC,United States
+1158,"Advanced Critical Devices, Inc.",OH,United States
+1159,Oxford Immunotec Inc.,MA,United States
+1160,Aaren Scientific Inc.,CA,United States
+1161,Summit Medical,MN,United States
+1162,"Salutaris Medical Devices, Inc.",AZ,United States
+1163,"Xhale, Inc.",FL,United States
+1164,Galt Medical,TX,United States
+1165,Vidacare Corporation,TX,United States
+1166,Analogic Corporation,MA,United States
+1167,EDAP TECHNOMED INC,TX,United States
+1168,"Mauna Kea Technologies, Inc.",MA,United States
+1169,Hoya Surgical Optics GmbH,NA,Germany
+1170,"PIVOT MEDICAL, INC.",CA,United States
+1171,EKOS Corporation,WA,United States
+1172,BRACCO DIAGNOSTICS INC.,NJ,United States
+1173,Aqua Pharmaceuticals,PA,United States
+1174,"Nanosphere, Inc.",IL,United States
+1175,"Vascular Dynamics, Inc.",CA,United States
+1176,Evergreen Orthopedic Research Lab LLC,WA,United States
+1177,Dentaurum Incorporated,PA,United States
+1178,Teleflex Medical Incorporated,NC,United States
+1179,"Arrow International, Inc.",PA,United States
+1180,The Burkhart Dental Supply Company,WA,United States
+1181,"American Medical Hospital Supply Company, Inc.",CA,United States
+1182,Vasonova Inc.,CA,United States
+1183,"Doxa Dental, Inc.",IL,United States
+1184,"Aseptico, Inc.",WA,United States
+1185,"Allotech, LLC",TX,United States
+1186,"Consensus Orthopedics, Inc.",CA,United States
+1187,"Radiometer America, Inc",CA,United States
+1188,"DUSA Pharmaceuticals, Inc.",MA,United States
+1189,"SPINECRAFT, LLC",IL,United States
+1190,"SONOCINE, INC.",NV,United States
+1191,Elekta Limited,NA,Great Britain (Uk)
+1192,"Wright Medical Technology, Inc.",TN,United States
+1193,INSYS Therapeutics Inc,AZ,United States
+1194,"Millennium Spine, LLC",MD,United States
+1195,Ranbaxy Inc.,NJ,United States
+1196,"iCAD, Inc",NH,United States
+1197,Altatec GmbH,NA,Germany
+1198,Orion Corporation,NA,Finland
+1199,Circassia Pharmaceuticals Inc,NC,United States
+1200,ERMI Inc.,GA,United States
+1201,Emergent BioSolutions Inc.,MD,United States
+1202,"Plasma Surgical, Inc.",GA,United States
+1203,"MedShape, Inc.",GA,United States
+1204,"BTG International, Inc.",PA,United States
+1205,"Torax Medical, Inc.",MN,United States
+1206,"Biocompatibles, Inc.",CT,United States
+1207,RECORDATI_RARE_DISEASES_INC.,NJ,United States
+1208,BTG International Canada Inc.,NA,Canada
+1209,Medical Action Industries Inc,VA,United States
+1210,Biocompatibles UK Ltd,NA,Great Britain (Uk)
+1211,"Medicrea USA, Corp.",NY,United States
+1212,"Veran Medical Technologies, Inc.",MO,United States
+1213,SNAP Diagnostics LLC,IL,United States
+1214,Benvenue Medical Inc,CA,United States
+1215,Medigus Ltd.,NA,Israel
+1216,"Deltex Medical, SC, Inc.",SC,United States
+1217,"Hi-Tech Pharmacal Co., Inc.",NY,United States
+1218,Kedrion Biopharma Inc.,NJ,United States
+1219,"PARADIGM SPINE, LLC",NY,United States
+1220,Spineart USA Inc,CA,United States
+1221,Shofu Dental Corp,CA,United States
+1222,Team_Makena_LLC,CA,United States
+1223,Nucletron B.V.,NA,Netherlands
+1224,"Sequoia Surgical Distributors, LLC",CA,United States
+1225,Terumo Cardiovascular Systems Corporation,MI,United States
+1226,Sekisui Diagnostics LLC,MA,United States
+1227,"SI-BONE, Inc.",CA,United States
+1228,Elekta Oy,NA,Finland
+1229,GAMBRO AAB,CO,United States
+1230,Universal Instrumentation LLC,TX,United States
+1231,"CoAlign Innovations, Inc.",CA,United States
+1232,Skeletal Dynamics LLC,FL,United States
+1233,"Joimax, Inc.",CA,United States
+1234,"TissueTech, Inc.",FL,United States
+1235,"CARACO PHARMACEUTICAL LABORATORIES, LTD.",NJ,United States
+1236,"Iroko Pharmaceuticals, LLC",CA,United States
+1237,Spectrum Pharmaceuticals Inc.,NV,United States
+1238,"Elekta, Inc.",GA,United States
+1239,Novadaq Technologies Inc.,NA,Canada
+1240,"BioMimetic Therapeutics, LLC",TN,United States
+1241,Synapse Biomedical Inc,OH,United States
+1242,"Seneca Medical, Inc.",OH,United States
+1243,Elekta LTD,NA,Canada
+1244,"White Box Orthopedics, LLC",TN,United States
+1245,"OptiNose US, Inc.",PA,United States
+1246,"Genesys Orthopedics Systems, L.L.C.",TX,United States
+1247,"Spine View, Inc.",CA,United States
+1248,VISIONARY OPTICS LLC,VA,United States
+1249,"Alphatec Spine, Inc",CA,United States
+1250,Materialise NV,NA,Belgium
+1251,Elekta Instrument AB,NA,Sweden
+1252,"Think Surgical, Inc.",CA,United States
+1253,Heraeus Kulzer Nordic AB,NA,Sweden
+1254,"Elekta Medical, S.A.",NA,Spain
+1255,"Collagen Matrix, Inc",NJ,United States
+1256,"BioFire Diagnostics, LLC",UT,United States
+1257,"Electromed, Inc.",MN,United States
+1258,"Corventis, Inc.",CA,United States
+1259,"Supernus Pharmaceuticals, Inc.",MD,United States
+1260,"SpineSelect, LLC",MS,United States
+1261,Kortmed Marketing and Management LLC,TX,United States
+1262,"Vascular Insights, LLC",MA,United States
+1263,Goetze-Niemer Co,MO,United States
+1264,"PATTERSON COMPANIES, INC.",MN,United States
+1265,VOCO America Inc.,SC,United States
+1266,"Eckert & Ziegler, BEBIG",CT,United States
+1267,Boehringer Ingelheim Singapore Pte. Ltd.,NA,Singapore
+1268,"Romark Laboratories, LC",FL,United States
+1269,"HeartWare, Inc.",MA,United States
+1270,"Gamma Medica, Inc.",NH,United States
+1271,"Urologix, Inc.",MN,United States
+1272,"Mydent International, Inc.",NY,United States
+1273,Jubilant DraxImage Inc.,NA,Canada
+1274,SWAN VALLEY MEDICAL INCORPORATED,MT,United States
+1275,"SpineFrontier, Inc.",MA,United States
+1276,Wockhardt USA LLC,NJ,United States
+1277,Organogenesis Inc.,MA,United States
+1278,MENICON,MA,United States
+1279,"Sobi, Inc",MA,United States
+1280,Kaneka Pharma America LLC,NY,United States
+1281,"Mercury Enterprises, Inc.",FL,United States
+1282,"INTERNATIONAL REHABILITATIVE SCIENCES, INC",WA,United States
+1283,"Sigma-Tau Pharmaceuticals, Inc.",MD,United States
+1284,Dentium USA,CA,United States
+1285,"Meda Pharmaceuticals, Inc.",IL,United States
+1286,"Dental Health Products, Inc.",WI,United States
+1287,"Flexuspine, Inc",TX,United States
+1288,"Greatbatch, Inc.",NY,United States
+1289,"Mobius Therapeutics, LLC",MO,United States
+1290,"Vertical Pharmaceuticals, LLC",NJ,United States
+1291,STD Med Inc.,MA,United States
+1292,"MEDTEC, Inc.",IA,United States
+1293,"Pierre Fabre Pharmaceuticals, Inc.",NJ,United States
+1294,"Onset Dermatolology, Inc",NJ,United States
+1295,Sucampo AG,NA,Switzerland
+1296,"Amendia, Inc.",CA,United States
+1297,"NeuWave Medical, Inc.",WI,United States
+1298,"PARI RESPIRATORY EQUIPMENT, INC.",VA,United States
+1299,"Mid America Management, LLC",TX,United States
+1300,Xoran Technologies,MI,United States
+1301,"Vivex Biomedical, Inc.",GA,United States
+1302,"Planmeca USA, Inc.",IL,United States
+1303,Spineology Inc.,MN,United States
+1304,"Planmed, Inc.",IL,United States
+1305,"Medistim USA, Inc.",MN,United States
+1306,BSD Medical Corporation,UT,United States
+1307,SUN PHARMACEUTICAL INDUSTRIES LIMITED,NA,India
+1308,PBM Pharmaceuticals,VA,United States
+1309,"Arteriocyte Medical Systems, Inc.",MA,United States
+1310,Coloplast Corp,MN,United States
+1311,Innovasis Inc,UT,United States
+1312,"On-x Life Technologies, Inc",TX,United States
+1313,Jubilant HollisterStier LLC,WA,United States
+1314,Teratech Corporation,MA,United States
+1315,"Provista Diagnostics, Inc.",AZ,United States
+1316,Mevion_Medical_Systems_Inc,MA,United States
+1317,End Product Results LLC,MI,United States
+1318,Nihon Cochlear Co Ltd,NA,Japan
+1319,Materialise Dental NV Belgium,PA,United States
+1320,"Organ Recovery Systems, Inc.",IL,United States
+1321,Medicrea International,NA,France
+1322,"Greer Laboratories, Inc.",NC,United States
+1323,FRESENIUS USA INC.,MA,United States
+1324,Tris Pharma Inc,NJ,United States
+1325,NSK AMERICA CORPORATION,IL,United States
+1326,b2d Marketing,WA,United States
+1327,"Cranial Technologies, Inc",AZ,United States
+1328,"Vilex in Tennessee, Inc.",TN,United States
+1329,COGENT THERAPEUTICS LLC,CA,United States
+1330,"AsahiKasei Medical Co.,Ltd.",NA,Japan
+1331,"Total Joint Orthopedics, Inc.",UT,United States
+1332,Magellan Diagnostics Inc,MA,United States
+1333,Flower Orthopedics Coporation,PA,United States
+1334,"Shoulder Options, Inc.",NC,United States
+1335,Apollo Endosurgery Inc,TX,United States
+1336,"STELLEN MEDICAL, LLC",MN,United States
+1337,"Vertos Medical, Inc.",CA,United States
+1338,Belle Bonfils Memorial Blood Center,CO,United States
+1339,Altus Partners. LLC,PA,United States
+1340,Osmotica Pharmaceutical Corp.,GA,United States
+1341,"NeuroTherm, Inc.",MA,United States
+1342,OraSure Technologies Inc.,PA,United States
+1343,ICONN Orthopedics,AL,United States
+1344,Exalenz Bioscience Ltd.,NJ,United States
+1345,TEI Biosciences Inc,MA,United States
+1346,Edge Endo LLC,NM,United States
+1347,"C2 Therapeutics, Inc",CA,United States
+1348,Kowa Pharmaceutical Europe Co. Ltd.,NA,Great Britain (Uk)
+1349,Kettenbach LP,CA,United States
+1350,"Grace Medical, Inc.",TN,United States
+1351,"Eagle Vision, Inc.",TN,United States
+1352,"Incisive Surgical, Inc.",MN,United States
+1353,"Conventus Orthopaedics, Inc.",MA,United States
+1354,"Second Sight Medical Products, Inc.",CA,United States
+1355,SPACELABS HEALTHCARE INC,WA,United States
+1356,"Vasamed, Inc",MN,United States
+1357,US Medical Innovations LLC,MD,United States
+1358,UroGPO LLC,OH,United States
+1359,"PFM Medical, Inc.",CA,United States
+1360,Scanlan International Inc,MN,United States
+1361,"ACELL, INC.",MD,United States
+1362,"Pajunk Medical Systems, LP",GA,United States
+1363,"RGH Enterprises, Inc.",OH,United States
+1364,SciCan Inc,PA,United States
+1365,Sechrist Industries Inc,CA,United States
+1366,Apyx Medical Corporation,FL,United States
+1367,"Actuated Medical, Inc.",PA,United States
+1368,"Capnia, Inc.",CA,United States
+1369,"Emerge Medical, INC",OH,United States
+1370,"ulrich medical USA, Inc.",MO,United States
+1371,"Sophono, Inc.",CO,United States
+1372,"Microsurgical Technology, Inc.",WA,United States
+1373,AMD GROUP LLC,IN,United States
+1374,"Oasis Medical, Inc.",CA,United States
+1375,"Young's Valley Contax, Inc.",OR,United States
+1376,Neurohabilitation Corporation,PA,United States
+1377,"US Implant Solutions, LLC",FL,United States
+1378,"rEVO Biologics, Inc.",MA,United States
+1379,Vitrolife Inc.,CO,United States
+1380,"Dune Medical Devices, Inc.",GA,United States
+1381,Nova Biomedical Corporation,MA,United States
+1382,"Tem Systems, Inc.",NC,United States
+1383,"Alimera Sciences, Inc.",GA,United States
+1384,"Mist Pharmaceuticals, LLC",NJ,United States
+1385,Sauflon Pharmaceuticals Inc,NY,United States
+1386,Richard Wolf Medical Instruments Corp.,IL,United States
+1387,ESSA Pharmaceuticals Corp.,TX,United States
+1388,Biom'Up SA,NA,France
+1389,Coltene Whaledent Inc.,OH,United States
+1390,"Shimadzu Precision Instruments, Inc.",CA,United States
+1391,"Illumina, Inc.",CA,United States
+1392,"Orexo US, Inc.",NJ,United States
+1393,Shire North American Group Inc,MA,United States
+1394,"TRUMPF MEDICAL SYSTEMS, INC.",SC,United States
+1395,"ASPEN SURGICAL PRODUCTS, INC.",MI,United States
+1396,Ecolab,MN,United States
+1397,"PRN Medical Services, LLC",AZ,United States
+1398,Miromatrix Medical Inc.,MN,United States
+1399,Mazor Robotics LTD,NA,Israel
+1400,Horizon Pharma Rheumatology LLC,IL,United States
+1401,"B. Braun Medical (Shanghai) International Trading Co., Ltd.",NA,China
+1402,Instradent USA INC,MA,United States
+1403,NeoMedix Corporation,CA,United States
+1404,"Retrophin, Inc.",CA,United States
+1405,"Intermune, Inc.",CA,United States
+1406,"Ethicon US, LLC",OH,United States
+1407,"Inspire Medical Systems, Inc.",MN,United States
+1408,Acteon Inc,NJ,United States
+1409,"Insight Instruments, Inc.",FL,United States
+1410,Drake Precision Dental Lab,NC,United States
+1411,Misonix Inc,NY,United States
+1412,"Electrical Geodesics, Inc",OR,United States
+1413,The Atlanta Dental Supply Co.,GA,United States
+1414,Steelhead Surgical Inc,OR,United States
+1415,Cianna Medical Inc,CA,United States
+1416,LUMARA HEALTH INC.,MA,United States
+1417,"KONAN MEDICAL USA, INC.",CA,United States
+1418,"Immucor, Inc.",GA,United States
+1419,"Niveus Medical, Inc",CA,United States
+1420,Ferring Pharmaceuticals Pty Ltd,NA,Australia
+1421,Elevate Oral Care,FL,United States
+1422,Innovative Therapies Inc.,OH,United States
+1423,"MEDAC PHARMA, INC.",IL,United States
+1424,Summit Surgical Corp.,WA,United States
+1425,Ferring Pharmaceuticals (Asia) Co. Ltd.,NA,China
+1426,"DySIS Medical, Inc.",FL,United States
+1427,Ferring Pharmaceuticals Co. Ltd.,NA,Japan
+1428,The Res. Rep. Office of Ferring Pharmaceuticals Ltd. in HCMC,NA,Vietnam
+1429,Central Florida Cryo Partners LP,TX,United States
+1430,Cochlear Bone Anchored Solutions AB,NA,Sweden
+1431,Cochlear Medical Device Company India Pvt Ltd,NA,India
+1432,Nihon Cochlear Co Ltd,NA,Japan
+1433,Alcon Grieshaber AG,NA,Switzerland
+1434,Ferring Pharmaceuticals SA Rep Office Middle East,NA,Jordan
+1435,Sysmex Inostics Inc,IL,United States
+1436,Lightscalpel LLC,WA,United States
+1437,Ferring Inc.,NA,Canada
+1438,Advanced Vertebral Solutions LLC,PA,United States
+1439,"InterValve, Inc.",MN,United States
+1440,B. Braun Medical OY,NA,Finland
+1441,B. Braun Medical UK Ltd.,NA,Great Britain (Uk)
+1442,"Grifols Diagnostic Solutions, Inc.",CA,United States
+1443,"ARKRAY USA, Inc.",MN,United States
+1444,"STERIS Instrument Management Services, Inc.",AL,United States
+1445,Durata Therapeutics Inc.,NJ,United States
+1446,"Breckenridge Pharmaceutical, Inc.",FL,United States
+1447,Boehringer Ingelheim Do Brasil Quimica e Farmaceutical Ltda.,NA,Brazil
+1448,"Eagle Pharmaceuticals, Inc.",NJ,United States
+1449,Boehringer Ingelheim S.A.,NA,Colombia
+1450,"Direct Flow Medical, Inc.",CA,United States
+1451,Admedus Corporation,MN,United States
+1452,Admedus Corporation,MN,United States
+1453,"Transcend Medical, Inc.",CA,United States
+1454,"Sotera Wireless, Inc.",CA,United States
+1455,Boehringer Ingelheim Danmark A/S,NA,Denmark
+1456,Boehringer Ingelheim Del Ecuador Cia. Ltda.,NA,Ecuador
+1457,Laboratory Supply Company,KY,United States
+1458,IBSA Institut Biochimique SA,NA,Switzerland
+1459,Boehringer Ingelheim Norway KS,NA,Norway
+1460,Boehringer Ingelheim Limited,NA,Great Britain (Uk)
+1461,Boehringer Ingelheim MENA (Scientific Office) FZ-LLC,NA,United Arab Emirates
+1462,"Rotation Medical, Inc.",MN,United States
+1463,"NuMED for Children, LLC",NY,United States
+1464,"NuMED, Inc.",NY,United States
+1465,"Ziehm Imaging, Inc.",FL,United States
+1466,"DeGen Medical, Inc.",SC,United States
+1467,Alere Inc.,MA,United States
+1468,"Veniti, Inc.",MO,United States
+1469,"NeedleTech Products, Inc.",MA,United States
+1470,B. Braun Melsungen AG,NA,Germany
+1471,B. Braun Avitum AG,NA,Germany
+1472,"BioDelivery Sciences International, Inc.",NC,United States
+1473,Hutchinson Technology Inc.,MN,United States
+1474,Carl Zeiss Meditec AG,NA,Germany
+1475,Icare USA,NC,United States
+1476,Boehringer Ingelheim Ireland Limited,NA,Ireland
+1477,Purdue Pharma,NA,Canada
+1478,Hitachi Aloka Medical America Inc.,CT,United States
+1479,"Pfizer, S.L.",NA,Spain
+1480,Pfizer AG,NA,Switzerland
+1481,"Trice Medical, Inc.",PA,United States
+1482,"Choice Spine, LP",TN,United States
+1483,Medventure Technology Corporation,IN,United States
+1484,"Innovative Medical Technologies, LLC",OH,United States
+1485,Teleflex Incorporated,PA,United States
+1486,"Specialty Surgical Products, Inc.",MT,United States
+1487,"Sagent Pharmaceuticals, Inc.",IL,United States
+1488,"Hotspur Technologies, Inc.",CA,United States
+1489,Lifeline Sciences LLC,MI,United States
+1490,"Arrow Interventional, Inc.",MA,United States
+1491,"Ortho Technology, Inc",FL,United States
+1492,Sebela Pharmaceuticals Inc.,GA,United States
+1493,"ImpediMed, Inc.",CA,United States
+1494,DENTSPLY NZ Limited,PA,United States
+1495,DENTSPLY SIRONA Pty Limited,PA,United States
+1496,"GM Pharmaceuticals, Inc.",TX,United States
+1497,MicroPort Orthopedics Inc,TN,United States
+1498,Nexxt Spine LLC,IN,United States
+1499,"Boehringer Ingelheim Int'l Trading (Shanghai) Co., Ltd.",NA,China
+1500,Vapotherm Inc,NH,United States
+1501,"Henry Schein Medical Systems, Inc.",OH,United States
+1502,Hexal AG,NA,Germany
+1503,Vanda Pharmaceuticals Inc.,DC,United States
+1504,"Prosidyan, Inc",NJ,United States
+1505,Theratechnologies Inc.,NA,Canada
+1506,Reliance Medical Systems,UT,United States
+1507,"Kaleo, Inc.",VA,United States
+1508,"Pharmacyclics, Inc",CA,United States
+1509,Edgemont Pharmaceuticals LLC,TX,United States
+1510,"TOLMAR Pharmaceuticals, Inc.",CO,United States
+1511,"Saphena Medical, Inc.",MA,United States
+1512,"Ossur Americas., Inc",CA,United States
+1513,Spineworks LLC,UT,United States
+1514,WHITEHALL INTERNATIONAL INC,NY,United States
+1515,Elekta Pty Ltd,NA,Australia
+1516,Nanovis LLC,IN,United States
+1517,"Tridens Medical, LLC",CO,United States
+1518,Ferring Pharmaceuticals Ltd (UK),NA,Great Britain (Uk)
+1519,"Citra Labs, LLC",MA,United States
+1520,TEI Medical Inc.,MA,United States
+1521,American National Red Cross,DC,United States
+1522,NeoTract Inc.,CA,United States
+1523,"MIPRO US, Inc.",FL,United States
+1524,"B. Braun Aesculap Japan Co., Ltd.",NA,Japan
+1525,"HALYARD HEALTH, INC.",GA,United States
+1526,"Wright Therapy Products, Inc.",PA,United States
+1527,"Lake Region Medical, Inc.",MA,United States
+1528,"Ocular Therapeutix, Inc.",MA,United States
+1529,Boehringer Ingelheim Espana S.A.,NA,Spain
+1530,Boehringer Ingelheim Finland Ky,NA,Finland
+1531,"GI Supply, Inc.",PA,United States
+1532,Precision Eye Services,MN,United States
+1533,"Antares Pharma, Inc.",NJ,United States
+1534,SIRONA DENTAL SYSTEMS INC.,NY,United States
+1535,"ParaPRO, LLC",IN,United States
+1536,"UOC USA, Inc.",CA,United States
+1537,"Calvary Spine, LLC",MD,United States
+1538,"Calvary Spine Products, LLC",MD,United States
+1539,"Ablative Solutions, Inc.",CA,United States
+1540,Central Admixture Pharmacy Services Inc.,CA,United States
+1541,Nuo Therapeutics,MD,United States
+1542,"Innovative Medical Devices, Inc.",WI,United States
+1543,DNE LLC,PA,United States
+1544,Minimally Invasive Devices Inc.,OH,United States
+1545,Maquet Critical Care AB,NA,Sweden
+1546,DENTSPLY Ltd,PA,United States
+1547,"Osteoremedies, LLC",TN,United States
+1548,"Providence Medical Technology, Inc.",CA,United States
+1549,Cochlear AG,NA,Switzerland
+1550,Maquet GmbH,NA,Germany
+1551,"Neurotech NA, Inc.",MN,United States
+1552,Daiichi Sankyo Europe GmbH,NA,Germany
+1553,Medinol USA Inc,NJ,United States
+1554,"NuTech Plus, Inc.",AL,United States
+1555,Moore Medical LLC,CT,United States
+1556,Sony Electronics Inc.,NJ,United States
+1557,Nucletron Operations B.V.,NA,Netherlands
+1558,Elekta K.K.,NA,Japan
+1559,Vifor (International) Ltd.,NA,Switzerland
+1560,"VitaHEAT Medical, LLC",IL,United States
+1561,Almatica Pharma Inc.,NJ,United States
+1562,Myotronics Noromed Inc,WA,United States
+1563,"InnerSpace Neuro Solutions, Inc.",CA,United States
+1564,Stability Inc.,TN,United States
+1565,Clariance SAS,NA,France
+1566,integrated dental systems,NJ,United States
+1567,"Myelotec, Inc.",GA,United States
+1568,Vasc-Alert LLC,IN,United States
+1569,Vericel Corporation,MA,United States
+1570,Sonendo Inc,CA,United States
+1571,Spirus Medical LLC,MA,United States
+1572,"Canon U.S.A., Inc.",NY,United States
+1573,Swedish Orphan Biovitrum AB,NA,Sweden
+1574,"White Box Orthopedics, LLC",TN,United States
+1575,MORTARA INSTRUMENT INC,WI,United States
+1576,Centrix Inc,CT,United States
+1577,"ACIST MEDICAL SYSTEMS, INC.",MN,United States
+1578,"SMG Pharmaceuticals, LLC",SC,United States
+1579,"Silvergate Pharmaceuticals, Inc.",CO,United States
+1580,"Kedrion Biopharma, Inc.",NJ,United States
+1581,Omni Acquisition Inc.,GA,United States
+1582,"Collaborative Care Diagnostics, LLC",MN,United States
+1583,Functional Neuromodulation Inc,MA,United States
+1584,"Tru-Form Optics, Inc",TX,United States
+1585,"Radlink, Inc",CA,United States
+1586,"Civatech Oncology, Inc.",NC,United States
+1587,"Southern Spine, LLC",GA,United States
+1588,Cardiox Corporation,OH,United States
+1589,CIVCO Medical Instruments,IA,United States
+1590,"North Shore Surgical Services, LLC",TN,United States
+1591,RF Surgical Systems Inc.,CA,United States
+1592,"SpineSmith Holdings, LLC",TX,United States
+1593,"FHC, Inc.",ME,United States
+1594,Osseon LLC,CA,United States
+1595,Elekta Instrument Shanghai Ltd,NA,China
+1596,"SPIWay, LLC",CA,United States
+1597,"Custom Spine, Inc.",NJ,United States
+1598,"Episode Solutions, LLC",TN,United States
+1599,Ortho Solutions Inc,CO,United States
+1600,Unix Japan Group Inc,CA,United States
+1601,Concordia Laboratories Inc.,NA,Barbados
+1602,Gauss Surgical Inc.,CA,United States
+1603,Cerner Corporation,MO,United States
+1604,ELITechGroup Inc.,UT,United States
+1605,Piramal Critical Care,PA,United States
+1606,Vascular Flow Technologies Ltd,NA,Great Britain (Uk)
+1607,"Wright Medical Technology, Inc.",TN,United States
+1608,"Samsung Electronics Co., LTD.",NA,Korea (Republic of)
+1609,3D Systems,SC,United States
+1610,"CPM Medical Consultants, LLC",TX,United States
+1611,"IBA Molecular North America, Inc.",VA,United States
+1612,Stelkast Inc.,PA,United States
+1613,"UroMed, Inc.",OH,United States
+1614,Arstasis Inc.,CA,United States
+1615,Neovasc Medical Inc,NA,Canada
+1616,Avazzia Inc.,TX,United States
+1617,"Carticept Medical, Inc.",GA,United States
+1618,"Cartiva, Inc.",GA,United States
+1619,"Bisco, Inc.",IL,United States
+1620,"Banner Life Sciences, LLC",NC,United States
+1621,Optim LLC,MA,United States
+1622,"Trinity Orthopedics, LLC",CA,United States
+1623,"Surgical Specialties Corporation (US), Inc.",MA,United States
+1624,"Aptus Endosystems, Inc.",CA,United States
+1625,"Synergy Orthopedics, LLC",PA,United States
+1626,AltaThera Pharmaceuticals LLC,IL,United States
+1627,"Biogennix, LLC",CA,United States
+1628,Kalitec Direct LLC,FL,United States
+1629,"Inari Medical, Inc.",CA,United States
+1630,The Progressive Orthopaedics Company,FL,United States
+1631,The Progressive Orthopaedics Company,FL,United States
+1632,"NextStep Arthropedix, LLC",OH,United States
+1633,Amneal Pharmaceuticals LLC,NJ,United States
+1634,Innovation Technologies Inc,GA,United States
+1635,Iridex Corporation,CA,United States
+1636,"ClearFlow, Inc.",CA,United States
+1637,"Paragon BioTeck, Inc.",OR,United States
+1638,"Dabir Surfaces, Inc.",IL,United States
+1639,"Citieffe, Inc.",FL,United States
+1640,SeaSpine Sales LLC,CA,United States
+1641,BioMonde US LLC,FL,United States
+1642,"Salvin Dental Specialties, Inc.",NC,United States
+1643,Piramal Imaging Limited,NA,Great Britain (Uk)
+1644,"Intact Vascular, Inc.",PA,United States
+1645,SeaSpine Orthopedics Corporation,CA,United States
+1646,"Sentynl Therapeutics, Inc.",CA,United States
+1647,"ReliantHeart, Inc.",TX,United States
+1648,EndoShape Inc,CO,United States
+1649,Medtronic Neurovascular,MN,United States
+1650,Horizon Pharma plc,NA,Ireland
+1651,"Nanosonics, Inc.",DE,United States
+1652,"Elite Orthopedics, LLC",MO,United States
+1653,"HeartFlow, Inc.",CA,United States
+1654,Bone Support Inc.,MA,United States
+1655,"AUGMENIX, INC.",MA,United States
+1656,"Cynosure, Inc",MA,United States
+1657,Kurz Medical Inc,GA,United States
+1658,Journey Medical Corporation,AZ,United States
+1659,"NanoString Technologies, Inc.",WA,United States
+1660,"NuSmile, Ltd.",TX,United States
+1661,"Myriad Genetic Laboratories, Inc.",UT,United States
+1662,Cipher Pharmaceuticals US LLC,SC,United States
+1663,DIO USA CORPORATION,CA,United States
+1664,"Velano Vascular, Inc.",CA,United States
+1665,"Roche Diabetes Care, Inc.",IN,United States
+1666,"STRATA Skin Sciences, Inc.",PA,United States
+1667,"Onkos Surgical, Inc.",NJ,United States
+1668,Great Lakes Orthopedics,WI,United States
+1669,"Gemini Laboratories, LLC",NJ,United States
+1670,Grifols Canada Ltd.,NA,Canada
+1671,Medicines360,CA,United States
+1672,"Advanced Joint Solutions, LLC",IL,United States
+1673,HRA Pharma,NA,France
+1674,"Regeneron Healthcare Solutions, Inc.",NY,United States
+1675,DiaSorin Inc.,MN,United States
+1676,"SOUTHERN EDGE ORTHOPAEDICS, INC.",FL,United States
+1677,Ferring Pharmaceuticals Private Ltd,NA,India
+1678,"Exeltis, USA Inc.",NJ,United States
+1679,"BioStructures, LLC",CA,United States
+1680,R-Pharm US LLC,NJ,United States
+1681,"T2 Biosystems, Inc.",MA,United States
+1682,"Diversified Ophthalmics, Inc.",OH,United States
+1683,"BREG, INC",CA,United States
+1684,Nevro Corp,CA,United States
+1685,Merz Pharma GmbH & Co.KGaA,NA,Germany
+1686,"Intelligent Implant Systems, LLC",NC,United States
+1687,"SI-TECHNOLOGY, LLC",CO,United States
+1688,Astora Women's Health LLC,PA,United States
+1689,Intersurgical Inc,NY,United States
+1690,"Preceptis Medical, Inc.",MN,United States
+1691,"Intelomed, Inc",PA,United States
+1692,Turing Pharmaceuticals,NY,United States
+1693,"Pharmacyclics LLC, An AbbVie Company",CA,United States
+1694,"Treace Medical Concepts, Inc.",FL,United States
+1695,ALLEN MEDICAL SYSTEMS,IN,United States
+1696,Galderma International SAS,NA,France
+1697,Stimwave Technologies Incorporated,FL,United States
+1698,Liebel-Flarsheim LLC,MO,United States
+1699,United Rheumatology,NY,United States
+1700,DNE LLC,PA,United States
+1701,"Polymer Technology Systems, Inc",IN,United States
+1702,Baxalta US Inc,IL,United States
+1703,"Keryx Biopharmaceuticals, Inc.",MA,United States
+1704,"CyMedica Orthopedics, Inc.",AZ,United States
+1705,Asahi Kasei Medical America Inc.,IL,United States
+1706,Tepha Inc,MA,United States
+1707,RJR SURGICAL INC,OH,United States
+1708,Boehringer Ingelheim Israel Ltd.,NA,Israel
+1709,Midatech Pharma US Inc,NC,United States
+1710,Boehringer Ingelheim Italia S.p.A.,NA,Italy
+1711,PT Boehringer Ingelheim Indonesia,NA,Indonesia
+1712,JACE Medical LLC,IN,United States
+1713,"Southern Anesthesia & Surgical, Inc",SC,United States
+1714,Laborie Medical Technologies Corp.,VT,United States
+1715,Aesculap Chifa Sp. Z o. o.,NA,Poland
+1716,"Visioneering Technologies, Inc.",GA,United States
+1717,B. Braun Australia Pty. Ltd.,NA,Australia
+1718,Vectura Incorporated,MA,United States
+1719,"MereteTechnologies, Inc.",IL,United States
+1720,"Merete Medical, Inc.",IL,United States
+1721,Ferring Arzneimittel GmbH,NA,Germany
+1722,"Enteromedics, Inc",MN,United States
+1723,"McKesson Medical-Surgical Minnesota Supply, Inc",MN,United States
+1724,Vectura Limited,NA,Great Britain (Uk)
+1725,Laboratorios B. Braun S.A.,NA,Brazil
+1726,Concordia Laboratories Inc.,NA,Barbados
+1727,Concordia Pharmaceuticals Inc.,NA,Barbados
+1728,Encore Dermatology Inc.,PA,United States
+1729,"PneumRx, Inc",CA,United States
+1730,"In2Bones USA, LLC",TN,United States
+1731,"Snoasis Medical, LLC",CO,United States
+1732,Phoenix Sleep Solutions LLC,MN,United States
+1733,Omeros Corporation,WA,United States
+1734,Egalet US Inc,PA,United States
+1735,"Aegis Spine, Inc.",CO,United States
+1736,"Astute Medical, Inc.",CA,United States
+1737,"Kalila Medical, Inc.",IL,United States
+1738,"Deerfield Imaging, Inc.",NY,United States
+1739,Cogentix Medical Inc.,MN,United States
+1740,"Prasco, LLC",OH,United States
+1741,"Tendyne Holdings, Inc.",IL,United States
+1742,InFront Medical LLC,NJ,United States
+1743,"Nielsen BioSciences, Inc.",CA,United States
+1744,"INNOPHARMA, INC.",NY,United States
+1745,WYETH PUERTO RICO INC,NY,United States
+1746,Laboratorios Pfizer Ltda.,NA,Brazil
+1747,Cerus Corporation,CA,United States
+1748,"PFIZER INVESTMENT CO., LTD",NA,China
+1749,NotalVision,VA,United States
+1750,Sandoz GmbH,NA,Austria
+1751,"Teleflex Medical Trading (Shanghai) Co., Ltd.",NA,China
+1752,Merz Asia Pacific PTE. LTD,NA,Singapore
+1753,Merz Australia Pty Ltd.,NA,Australia
+1754,"CORPAK Medsystems, Inc.",IL,United States
+1755,"Verbatim Americas, LLC",NC,United States
+1756,"MIZUHO AMERICA, INC.",CA,United States
+1757,"Southern Louisiana Surgical Supply, LLC",TN,United States
+1758,Mayne Pharma Inc.,NC,United States
+1759,"IMPLANET America, Inc.",MA,United States
+1760,"CROSSROADS EXTREMITY SYSTEMS, LLC",TN,United States
+1761,Adamis Pharmaceuticals Corporation,CA,United States
+1762,"IBA Proton Therapy, Inc.",VA,United States
+1763,Surgical Theater LLC,OH,United States
+1764,"BioCryst Pharmaceuticals, Inc.",NC,United States
+1765,Quandary Medical LLC,NC,United States
+1766,Boehringer Ingelheim Peru S.A.C,NA,Peru
+1767,Ferring Galenisches Labor AG,NA,Switzerland
+1768,Laurimed LLC,CA,United States
+1769,"Dentium Co., Ltd",CA,United States
+1770,"Hill Dermaceuticals, Inc.",FL,United States
+1771,Merge Healthcare Incorporated,IL,United States
+1772,QIAGEN Sciences LLC,MD,United States
+1773,"Novum Pharma, LLC",IL,United States
+1774,Novastep Inc.,NY,United States
+1775,"Anacor Pharmaceuticals, Inc.",CA,United States
+1776,Roche Diabetes Care GmbH,NA,Germany
+1777,"IMPAC Medical Systems, Inc.",CA,United States
+1778,"OsteoCentric Technologies, Inc.",TX,United States
+1779,Ferring BV,NA,Netherlands
+1780,Ion Beam Applications S.A.,NA,Belgium
+1781,Medicure Pharma Inc.,NJ,United States
+1782,Indivior Inc.,VA,United States
+1783,Seqirus USA Inc,NJ,United States
+1784,Provensis Limited,NA,Great Britain (Uk)
+1785,Osiris Therapeutics Inc.,MD,United States
+1786,"Neos Therapeutics, LP",TX,United States
+1787,Metz Pharma Canada Ltd.,NA,Canada
+1788,"ChiRhoClin, Inc.",MD,United States
+1789,"Nexus Spine, LLC",UT,United States
+1790,"Nexus CMF, LLC",UT,United States
+1791,Synaptive Medical Inc.,NA,Canada
+1792,IceCure Medical Inc,TN,United States
+1793,Kirwan Surgical Products LLC,MA,United States
+1794,"CARO Medical, LLC",OH,United States
+1795,"Sight Sciences, Inc.",CA,United States
+1796,Crawford Healthcare Inc,PA,United States
+1797,Boulevard Endeavors LLC,TX,United States
+1798,"Palm Springs Partners, LLC",TX,United States
+1799,"Spinal Simplicity, LLC",KS,United States
+1800,West-Ward Pharmaceuticals,NJ,United States
+1801,Eximis Surgical LLC,CO,United States
+1802,"Nashville Dental, Inc.",TN,United States
+1803,"Pinnacle Transplant Technologies, LLC",AZ,United States
+1804,"Amnio Technology, LLC",AZ,United States
+1805,"RadiaDyne, LLC",TX,United States
+1806,"MELA Sciences, Inc.",PA,United States
+1807,Vision RT LTD,NA,Great Britain (Uk)
+1808,"Omnia Medical, LLC",WV,United States
+1809,"VisionRT, Inc.",MD,United States
+1810,Xenco Medical LLC,CA,United States
+1811,"Bio2 Medical, Inc.",CO,United States
+1812,"Alevio, LLC",AL,United States
+1813,"Custom Automated Prosthetics, LLC",MA,United States
+1814,"GEMINI MOUNTAIN MEDICAL, LLC",CO,United States
+1815,"EPIC Extremity, LLC",PA,United States
+1816,"Cutting Edge Spine, LLC",NC,United States
+1817,"VIDA Diagnostics, Inc.",IA,United States
+1818,"Rivanna Medical, LLC",VA,United States
+1819,"Symbrium Medical Technology, Inc.",SC,United States
+1820,Faxitron Bioptics LLC,AZ,United States
+1821,"DeRoyal Industries, Inc.",TN,United States
+1822,"Focal Therapeutics, Inc.",MA,United States
+1823,"Innovative Surgical Designs, Inc.",IN,United States
+1824,Zavation LLC,MS,United States
+1825,ACADIA Pharmaceuticals Inc,CA,United States
+1826,"W.O.M. WORLD OF MEDICINE USA, Inc.",FL,United States
+1827,Neuravi Ltd,NA,Ireland
+1828,Medela AG,NA,Switzerland
+1829,"Presidio Surgical, Inc",CA,United States
+1830,Dexcel Pharma Technologies Ltd.,NA,Israel
+1831,Spirox Inc,CA,United States
+1832,CIPLA USA INC.,NJ,United States
+1833,"BioCardia, Inc.",CA,United States
+1834,"Taiho Oncology, Inc.",NJ,United States
+1835,First Gold Corp,TX,United States
+1836,"Stabilynx, Inc.",CA,United States
+1837,Spinal Resources Inc,FL,United States
+1838,"CardioFocus, Inc.",MA,United States
+1839,"Forestadent USA, Inc.",MO,United States
+1840,Silony Medical Corp.,FL,United States
+1841,Respire Medical Holdings LLC,NY,United States
+1842,"New Star Lasers, Inc.",CA,United States
+1843,"NuVasive Specialized Orthopedics, Inc.",CA,United States
+1844,Bernhard Foerster GmbH,NA,Germany
+1845,"Phraxis, Inc.",MN,United States
+1846,"Merrimack Pharmaceuticals, Inc.",MA,United States
+1847,"SafeOp Surgical, Inc.",MD,United States
+1848,Galil Medical Inc.,MN,United States
+1849,"AI Therapeutics, Inc.",CT,United States
+1850,"Sequoia Surgical, Inc.",CA,United States
+1851,BioStable Science & Engineering,TX,United States
+1852,"Cork Medical, LLC",IN,United States
+1853,Solvay Dental 360-A Div of Solvay Specialty Polymers USA LLC,GA,United States
+1854,"Collegium Pharmaceutical, Inc.",MA,United States
+1855,"Boehringer Ingelheim (China) Investment Co., Ltd.",NA,China
+1856,"Parcus Medical, LLC",FL,United States
+1857,"OWP Pharmaceuticals, Inc.",IL,United States
+1858,"Ferring Pharmaceuticals Korea Co., Ltd.",NA,Korea (Republic of)
+1859,Ciel Medical Inc,CA,United States
+1860,Ferring Holding Inc.,NJ,United States
+1861,Aptevo Therapeutics Inc,WA,United States
+1862,"TESARO, Inc.",MA,United States
+1863,Boehringer Ingelheim India Pvt. Ltd.,NA,India
+1864,Boehringer Ingelheim Ellas A.E.,NA,Greece
+1865,"Agilent Technologies, Inc.",CA,United States
+1866,ZS Pharma. Inc.,CA,United States
+1867,Saol Therapeutics Inc.,GA,United States
+1868,"Saluda Medical Americas, Inc.",MN,United States
+1869,VANTAGE TECHNOLOGY LLC,IL,United States
+1870,"B. Braun CeGaT, LLC",PA,United States
+1871,"EPIX Orthopaedics, Inc.",CA,United States
+1872,Sun Pharmaceutical Industries Inc.,NJ,United States
+1873,Cochlear Latinoamerica Sociedad Anonima,NA,Panama
+1874,Opsens Inc.,NA,Canada
+1875,"JenaValve Technology, Inc.",CA,United States
+1876,"HealthTronics Mobile Solutions, LLC",TX,United States
+1877,"Ardea Biosciences, Inc.",CA,United States
+1878,LENSAR LLC,FL,United States
+1879,Synthes GmbH,NA,Switzerland
+1880,Southern Implants North America Inc,FL,United States
+1881,"BioMedical Enterprises, Inc.",TX,United States
+1882,Blue Earth Diagnostics Limited,NA,Great Britain (Uk)
+1883,"Vernalis Therapeutics, Inc.",PA,United States
+1884,Boehringer Ingelheim (Phil.) Inc.,NA,Philippines
+1885,Boehringer Ingelheim GmbH,NA,Germany
+1886,Keymed (Medical and Industrial Equipment) Ltd.,NA,Great Britain (Uk)
+1887,Medrobotics Inc.,MA,United States
+1888,Endomagnetics Ltd,NA,Great Britain (Uk)
+1889,Smart-Surgical Inc. dba Burst Biologics,ID,United States
+1890,Brainsway USA Inc,NJ,United States
+1891,"Mitsui Chemicals, Inc.",NA,Japan
+1892,Merz Farmaceutica Comercial LTDA,NA,Brazil
+1893,Aprecia Pharmaceuticals Company,OH,United States
+1894,Merz Pharma (Schweiz) AG,NA,Switzerland
+1895,Catalyst OrthoScience,FL,United States
+1896,Novus Surgical Solutions LLC,PA,United States
+1897,Spineart SA,NA,Switzerland
+1898,"Checkpoint Surgical, Inc",OH,United States
+1899,"Podimetrics, Inc.",MA,United States
+1900,"Helsinn Therapeutics (U.S.), Inc.",NJ,United States
+1901,"PRIME SURGICAL, LLC",AL,United States
+1902,"Braeburn Pharmaceuticals, Inc.",PA,United States
+1903,"SPR Therapeutics, Inc",OH,United States
+1904,"curasan, Inc.",NC,United States
+1905,"Republic Spine, LLC",FL,United States
+1906,"Minerva Surgical, Inc",CA,United States
+1907,"Ancora Heart, Inc.",CA,United States
+1908,"Otonomy, Inc.",CA,United States
+1909,Roxwood Medical Inc.,CA,United States
+1910,"Orexigen Therapeutics, Inc.",CA,United States
+1911,"Relypsa, Inc.",CA,United States
+1912,"OPKO Pharmaceuticals, LLC",FL,United States
+1913,"Abyrx, Inc",NY,United States
+1914,"Aspire Bariatrics, Inc.",PA,United States
+1915,Napo Pharmaceuticals Inc,CA,United States
+1916,Kastle Therapeutics LLC,IL,United States
+1917,"Paxeon Reconstruction, LLC",MS,United States
+1918,"Intercept Pharmaceuticals, Inc.",NY,United States
+1919,"Prestium Pharma, Inc.",PA,United States
+1920,"TELA Bio, Inc.",PA,United States
+1921,"GS Solutions, Inc.",CA,United States
+1922,"Aries Pharmaceuticals, Inc.",CA,United States
+1923,EUSA Pharma (US) LLC,MA,United States
+1924,Next Science LLC,FL,United States
+1925,"NxThera, Inc.",MA,United States
+1926,World Class Technology Corporation,OR,United States
+1927,"ORTHOSCAN, INC.",AZ,United States
+1928,Zydus Pharmaceuticals (USA) Inc.,NJ,United States
+1929,"Adare Pharmaceuticals, Inc.",NJ,United States
+1930,Biofrontera Inc.,MA,United States
+1931,"Veloxis Pharmaceuticals, Inc.",NC,United States
+1932,Phadia GmbH,NA,Germany
+1933,Kerecis Limited,NA,Iceland
+1934,"Vatech America, Inc.",NJ,United States
+1935,"Miami Device Solutions, LLC",FL,United States
+1936,JCM International Inc.,PA,United States
+1937,Accriva Diagnostics Inc.,CA,United States
+1938,Dentsply Sirona KK,PA,United States
+1939,"Uromedica, Incorporated",MN,United States
+1940,"Syncardia Systems, LLC",AZ,United States
+1941,CSSi LifeSciences LLC,MD,United States
+1942,Sofregen Medical Inc.,MA,United States
+1943,"Echosens North America, Inc.",MA,United States
+1944,"Titan Pharmaceuticals, Inc.",CA,United States
+1945,Orthogenrx Inc.,PA,United States
+1946,Vifor Fresenius Medical Care Renal Pharma Ltd.,NA,Switzerland
+1947,"Espero Pharmaceuticals, Inc.",FL,United States
+1948,ARALEZ PHARMACEUTICALS US INC.,NY,United States
+1949,"NeoSoft, LLC",WI,United States
+1950,"VYAIRE MEDICAL, INC.",IL,United States
+1951,Ambu Inc.,MD,United States
+1952,Ascensia Diabetes Care US Inc.,NJ,United States
+1953,"Pharming Healthcare, Inc.",NJ,United States
+1954,Elekta Medical Systems India Pvt Ltd,NA,India
+1955,"Samsung Medison Co., Ltd.",NA,Korea (Republic of)
+1956,"Prexion, Inc.",CA,United States
+1957,MannKind Corporation,CA,United States
+1958,"Standard Bariatrics, Inc.",OH,United States
+1959,"Prytime Medical Devices, Inc.",TX,United States
+1960,ADAPT PHARMA INC.,PA,United States
+1961,"Aytu Bioscience, Inc",CO,United States
+1962,"Dutch Ophthalmic, USA",NH,United States
+1963,Dutch Ophthalmic Research Center (International) B.V.,NA,Netherlands
+1964,Outset Medical Inc,CA,United States
+1965,Innovative Blood Resources,MN,United States
+1966,"Urologix, LLC",MN,United States
+1967,"Corentec America,Inc.",NJ,United States
+1968,"Michigan Critical Care Consultants, Inc.",MI,United States
+1969,"Cerapedics, Inc.",CO,United States
+1970,"ZO Skin Health, Inc.",CA,United States
+1971,"Spine Innovation, LLC",CA,United States
+1972,DiaSorin Molecular LLC,CA,United States
+1973,"Vascular Technology, Inc.",NH,United States
+1974,Integrity Implants Inc,FL,United States
+1975,Nuvectra Corporation,TX,United States
+1976,Carolina Liquid Chemistries Corp,NC,United States
+1977,"Isto Technologies II, LLC",MA,United States
+1978,"HUMAN DESIGN MEDICAL, LLC",VA,United States
+1979,"Zest Holdings, LLC",CA,United States
+1980,"Surmodics, Inc.",MN,United States
+1981,Spinal Balance Inc,OH,United States
+1982,King Systems Corporation,IN,United States
+1983,"Acuity Surgical Devices, LLC",TX,United States
+1984,"CareDx, Inc.",CA,United States
+1985,"Spine Design, LLC",TX,United States
+1986,B. Braun Milano S.p.A,NA,Italy
+1987,Exsomed Holding Company LLC,AZ,United States
+1988,"Zuga Medical, Inc.",OH,United States
+1989,Hythe Holdings Inc.,CA,United States
+1990,"Modulated Imaging, Inc.",CA,United States
+1991,Kamada Ltd.,NA,Israel
+1992,Maxx Health Inc,PA,United States
+1993,Belluscura LLC,TX,United States
+1994,Qfix,PA,United States
+1995,Myoscience Inc.,CA,United States
+1996,"NeuroVasc Technologies, Inc.",CA,United States
+1997,"LivaNova USA, Inc.",TX,United States
+1998,"AirXpanders, Inc.",CA,United States
+1999,"Pinnacle Spine Group, LLC",TX,United States
+2000,Volk Optical Inc,OH,United States
+2001,"Shoulder Innovations, Inc.",MI,United States
+2002,"Avella of Deer Valley, Inc. #38",AZ,United States
+2003,"Lexicon Pharmaceuticals, Inc.",TX,United States
+2004,TP Orthodontics Inc,IN,United States
+2005,"Radius Health, Inc.",MA,United States
+2006,"Agios Pharmaceuticals, Inc.",MA,United States
+2007,LENOSS MEDICAL LLC,RI,United States
+2008,Curium US LLC,MO,United States
+2009,Poriferous LLC,GA,United States
+2010,"Fusion Orthopedics, LLC.",AZ,United States
+2011,Ferring Sendirian Berhad,NA,Malaysia
+2012,"KVK-Tech, Inc.",PA,United States
+2013,"Sarepta Therapeutics, Inc.",MA,United States
+2014,TerSera Therapeutics LLC,IL,United States
+2015,Strongbridge US INC.,PA,United States
+2016,Magstim Inc.,MN,United States
+2017,BIOVERATIV THERAPEUTICS INC.,MA,United States
+2018,"TEAM 1, LLC",FL,United States
+2019,MVP Orthopedics Inc,FL,United States
+2020,UNITED ORTHOPEDICS LLC,GA,United States
+2021,"Neurocrine Biosciences, Inc.",CA,United States
+2022,"Bardy Diagnostics, Inc.",WA,United States
+2023,CGG Medical Inc,FL,United States
+2024,"Fones Marketing Management, Inc.",FL,United States
+2025,Provepharm Inc.,NY,United States
+2026,Carl Zeiss Meditec Production LLC,CA,United States
+2027,HOYA Corporation,NA,Japan
+2028,"HARTMANN USA, INC.",SC,United States
+2029,"Butterfly Network, Inc.",CT,United States
+2030,"Heron Therapeutics, Inc.",CA,United States
+2031,"Invuity, Inc.",CA,United States
+2032,"Puma Biotechnology, Inc.",CA,United States
+2033,"Wilmington Medical Supply, Inc.",NC,United States
+2034,"Clovis Oncology, Inc.",CO,United States
+2035,"PTC Therapeutics, Inc.",NJ,United States
+2036,Carl Zeiss Meditec Digital Innovations LLC,TX,United States
+2037,Boehringer Ingelheim South Africa (Pty) Ltd,NA,South Africa
+2038,"AEGEA Medical, Inc.",CA,United States
+2039,"ShockWave Medical, Inc",CA,United States
+2040,Saol Therapeutics Research Limited,NA,Ireland
+2041,"EVOLUTION SURGICAL, INC",CA,United States
+2042,"b-ONE Ortho, Corp.",NJ,United States
+2043,"Hyperfine Research, Inc.",CT,United States
+2044,Kinex Medical Company LLC,WI,United States
+2045,"Celltrion, Inc.",NA,Korea (Republic of)
+2046,McKesson Patient Care Solutions Inc.,PA,United States
+2047,Mylan LLC,PR,United States
+2048,Accelerate Diagnostics Inc.,AZ,United States
+2049,"Aziyo Biologics, Inc.",MD,United States
+2050,"Sleep Science Resource, LLC.",MN,United States
+2051,Volpara Solutions Inc,WA,United States
+2052,"Ignite Orthopedics, LLC",IN,United States
+2053,"Vyera Pharmaceuticals, LLC",NY,United States
+2054,Dentsply IH Sweden,PA,United States
+2055,Dentsply IH China,PA,United States
+2056,"Mitsubishi Tanabe Pharma Holdings America, Inc.",NJ,United States
+2057,"Mitsubishi Tanabe Pharma America, Inc.",NJ,United States
+2058,"Mitsubishi Tanabe Pharma Development America, Inc.",NJ,United States
+2059,"Foundation Medicine, Inc.",MA,United States
+2060,"Arrinex, Inc.",CA,United States
+2061,"Johnson & Johnson Surgical Vision, Inc.",CA,United States
+2062,Advanced Accelerator Applications,NJ,United States
+2063,Dendreon Pharmaceuticals LLC,CA,United States
+2064,Acessa Health Inc.,TX,United States
+2065,"Claret Medical, Inc.",CA,United States
+2066,Boehringer Ingelheim (Schweiz) GmbH,NA,Switzerland
+2067,Teleflex Medical Australia Pty Ltd,NA,Australia
+2068,FUJIFILM Corporation,NA,Japan
+2069,Merz India Healthcare Private Limited,NA,India
+2070,Merz Pharma Benelux BV,NA,Netherlands
+2071,Merz Healthcare (Thailand) Company Ltd.,NA,Thailand
+2072,Merz Colombia S.A.S.,NA,Colombia
+2073,Merz Middle East FZ LLC,NA,United Arab Emirates
+2074,"Ceribell, Inc.",CA,United States
+2075,"Radiographic Equipment Services, Inc.",MN,United States
+2076,"J&R Medical, LLC",TX,United States
+2077,"EPI Health, LLC",SC,United States
+2078,"VentureMed Group, Inc.",MN,United States
+2079,Visionsense Ltd.,NA,Israel
+2080,"Merete Technologies, Inc",IL,United States
+2081,"Change Healthcare Technologies, LLC",GA,United States
+2082,"Suture Ease, Inc.",CA,United States
+2083,Synergy Pharmaceuticals Inc,PA,United States
+2084,"Toray Industries, Inc.",NA,Japan
+2085,"HERAEUS MEDICAL, LLC.",PA,United States
+2086,Limacorporate S.p.A.,NA,Italy
+2087,"Micro-tech Endoscopy USA, Inc.",MI,United States
+2088,PolyNovo North America LLC,DE,United States
+2089,"Novo Nordisk Research Center Seattle, Inc.",WA,United States
+2090,"Avadel Specialty Pharmaceuticals, LLC",MO,United States
+2091,"Fujifilm New Development USA, Inc.",MA,United States
+2092,MILESTONE SCIENTIFIC INC.,NJ,United States
+2093,Renovia Inc,MA,United States
+2094,"Tryton Medical, Inc.",NC,United States
+2095,Leader Biomedical USA LLC,IL,United States
+2096,"BioTrace Medical, Inc.",CA,United States
+2097,AxioMed LLC,MA,United States
+2098,"Alafair Biosciences,Inc.",TX,United States
+2099,"Baton Rouge Surgical Services, LLC",TN,United States
+2100,"Louisiana United Surgical Services, LLC",TN,United States
+2101,"ALCRESTA THERAPEUTICS, INC.",MA,United States
+2102,"TrackX Technology, LLC",NC,United States
+2103,Gramercy Extremity Orthopedics LLC,TX,United States
+2104,EMD Serono Research & Development Institute,MA,United States
+2105,"West Therapeutics Development, LLC",IL,United States
+2106,Pelvalon Inc.,CA,United States
+2107,"Celltrion Healthcare Co., Ltd",NA,Korea (Republic of)
+2108,"Biedermann Motech, Inc.",FL,United States
+2109,Haider Biologics,CA,United States
+2110,BUXTON BIOMEDICAL,NJ,United States
+2111,Rhode Island Blood Center,RI,United States
+2112,"Melinta Therapeutics, Inc.",NJ,United States
+2113,"Soleno Therapeutics, Inc.",CA,United States
+2114,Camber Spine Technologies,PA,United States
+2115,"Stability Biologics, LLC",TN,United States
+2116,LinkBio Corp,NJ,United States
+2117,The Institute of Musculoskeletal Science and Education,PA,United States
+2118,MSP Surgical Services LLC,TN,United States
+2119,"OpGen, Inc.",MD,United States
+2120,"410 MEDICAL, INC.",NC,United States
+2121,IKON SPINE LLC,TX,United States
+2122,"LinkSPINE, Inc.",MD,United States
+2123,CP Medical Corporation,GA,United States
+2124,"Acera Surgical, Inc.",MO,United States
+2125,"Osteonovus, Inc.",OH,United States
+2126,Perseon Corporation,TX,United States
+2127,"HydroCision, Inc.",MA,United States
+2128,"Fuse Medical, Inc.",TX,United States
+2129,Noden Pharma USA Inc,MA,United States
+2130,"ACIST MEDICAL SYSTEMS, INC.",MN,United States
+2131,"Acella Pharmaceuticals, LLC",GA,United States
+2132,"MENARINI SILICON BIOSYSTEMS, INC.",PA,United States
+2133,Neocis Inc.,FL,United States
+2134,Brightwater medical Inc,CA,United States
+2135,Ostial Corporation,CA,United States
+2136,Arterys Inc,CA,United States
+2137,"THD AMERICA, INC.",IA,United States
+2138,ARKIS BIOSCIENCES INC,TN,United States
+2139,Acerta Pharma LLC,CA,United States
+2140,"EchoNous, Inc.",WA,United States
+2141,HNM TOTAL RECON,FL,United States
+2142,"Intra-Lock International, Inc.",FL,United States
+2143,Ultragenyx Pharmaceutical Inc.,CA,United States
+2144,Laminate Medical Technologies inc.,NY,United States
+2145,icometrix inc,IL,United States
+2146,WishBone Medical Inc.,IN,United States
+2147,Asahi Kasei Pharma Corporation,NA,Japan
+2148,"Embolx, Inc.",CA,United States
+2149,EIT Emerging Implant Technologies Inc.,GA,United States
+2150,"G Medical Diagnostic Services, Inc.",TX,United States
+2151,"Innovative Surgical Solutions, LLC",MI,United States
+2152,United Service Solutions LLC,MA,United States
+2153,Forte Bio-Pharma LLC,NV,United States
+2154,"NexGen Medical Systems, Inc.",MN,United States
+2155,"Athenex Pharmaceutical Division, LLC",NY,United States
+2156,MEDIVATION FIELD SOLUTIONS LLC,CA,United States
+2157,MEDIVATION SERVICES LLC,CA,United States
+2158,"Medical Designs, LLC",SD,United States
+2159,HyperBranch Medical Technology Inc,NC,United States
+2160,"Additive Orthopaedics, LLC",NJ,United States
+2161,OraMetrix,PA,United States
+2162,VDW GmbH,PA,United States
+2163,"Gynesonics, Inc.",CA,United States
+2164,Austin Medical Ventures Inc,TN,United States
+2165,"Russell Health, Inc.",IL,United States
+2166,CELTIC BIODEVICES LLC,FL,United States
+2167,"Orthofix Medical, Inc.",TX,United States
+2168,Cycle Pharmaceuticals Inc,NA,Great Britain (Uk)
+2169,"Biocartis US, Inc",NJ,United States
+2170,"Essential Medical, Inc.",PA,United States
+2171,SurGenTec,FL,United States
+2172,Cornerstone Specialty Network LLC,PA,United States
+2173,"Aerie Pharmaceuticals, Inc.",NC,United States
+2174,"Aclaris Therapeutics, Inc.",PA,United States
+2175,"Kite Pharma, Inc.",CA,United States
+2176,"Back 2 Basics Direct, LLC",OH,United States
+2177,Scilex Pharmaceuticals Inc.,CA,United States
+2178,Alon Medical Technology,LA,United States
+2179,"Ingeniumspine, LLC",AZ,United States
+2180,Avantec Vascular Corporation,CA,United States
+2181,"Partner Therapeutics, Inc.",MA,United States
+2182,ABLYNX US,MA,United States
+2183,"Rigel Pharmaceuticals, Inc.",CA,United States
+2184,ABLYNX NV,MA,United States
+2185,IBSA Pharma Inc.,NJ,United States
+2186,"Adamas Pharmaceuticals, Inc.",CA,United States
+2187,"Spark Therapeutics, Inc.",PA,United States
+2188,"Nalpropion Pharmaceuticals, Inc.",NJ,United States
+2189,"Solta Medical, a division of Bausch Health US, LLC",NJ,United States
+2190,"Ortho Dermatologics, a division of Bausch Health US, LLC",NJ,United States
+2191,"Bausch & Lomb, a division of Bausch Health US, LLC",NJ,United States
+2192,"Salix Pharmaceuticals, a division of Bausch Health US, LLC",NJ,United States
+2193,"OraPharma, a division of Bausch Health US, LLC",NJ,United States
+2194,Bodycad USA Corp,FL,United States
+2195,"Medical Specialties Distributors, LLC",MA,United States
+2196,"North American Rescue, LLC",SC,United States
+2197,EllexiScience,CA,United States
+2198,"restor3d, inc.",NC,United States
+2199,Avedro Inc.,MA,United States
+2200,"Auris Health, Inc.",CA,United States
+2201,"Scion Medical Technologies, LLC",MA,United States
+2202,Skye Orthobiologics LLC,CA,United States
+2203,Human Regenerative Technologies,CA,United States
+2204,Keswick Pharmaceuticals LLC,VA,United States
+2205,"Kyowa Hakko Kirin Co., Ltd",NA,Japan
+2206,Kyowa Kirin Services Ltd,NA,Great Britain (Uk)
+2207,"Ivantis, Inc",CA,United States
+2208,Cytyc Corporation,MA,United States
+2209,"Cytyc Surgical Products, LLC",MA,United States
+2210,Cytyc Prenatal Products Corp.,MA,United States
+2211,Direct Radiography Corporation,MA,United States
+2212,"Gen-Probe, Inc.",MA,United States
+2213,"Gen-Probe Sales & Service, Inc.",MA,United States
+2214,"Hologic, LLC",MA,United States
+2215,Aerin Medical Inc.,CA,United States
+2216,Array BioPharma Inc.,CO,United States
+2217,ADMA BioManufacturing LLC,FL,United States
+2218,Aroa Biosurgery Incorporated,CA,United States
+2219,"Achaogen, Inc.",CA,United States
+2220,La Jolla Pharmaceutical Company,CA,United States
+2221,Sensible Medical Innovations Ltd,NA,Israel
+2222,"Prismatik Dentalcraft, Inc.",CA,United States
+2223,Magstim Group Inc.,MN,United States
+2224,"Z-Medica, LLC",CT,United States
+2225,7D Surgical Inc.,NA,Canada
+2226,Maruho Medical Inc.,MA,United States
+2227,"Companion Medical, Inc.",CA,United States
+2228,"Celularity, Inc.",NJ,United States
+2229,MicroPort CRM USA Inc,TN,United States
+2230,Braincoolinc,MD,United States
+2231,"LifeScan, Inc.",PA,United States
+2232,Servier Pharmaceuticals LLC,MA,United States
+2233,Amplitude Orthopedics Corporation,TX,United States
+2234,"Integra GPO, LLC",FL,United States
+2235,"Boehringer Ingelheim USA, Inc.",CT,United States
+2236,"Boehringer Ingelheim, Unipessoal, Lda.",NA,Portugal
+2237,HyperMed Imaging Inc.,TN,United States
+2238,"DT MedTech, LLC",MD,United States
+2239,"O&M Halyard, Inc.",VA,United States
+2240,Caerus Corp.,MN,United States
+2241,"PORTOLA PHARMACEUTICALS, INC.",CA,United States
+2242,PRESCIENT SURGICAL,CA,United States
+2243,Shape Memory Medical Inc.,CA,United States
+2244,"Celularity BioSourcing, LLC",NJ,United States
+2245,"Celularity Functional Regeneration, LLC",NJ,United States
+2246,"GRT US Holding, Inc.",NJ,United States
+2247,"Teikoku Pharma USA, Inc.",CA,United States
+2248,Rattan and Associates,TX,United States
+2249,"Avitus Orthopaedics, Inc.",CT,United States
+2250,"Blustone Synergy, LLC",CO,United States
+2251,"FX Shoulder USA, Inc",TX,United States
+2252,Oxford Immunotec USA Inc,MA,United States
+2253,"IRRAS USA, Inc.",CA,United States
+2254,"Avita Medical Americas, LLC",CA,United States
+2255,IDx Techologies Inc.,IA,United States
+2256,"Air Techniques, Inc.",NY,United States
+2257,Longeviti Neuro Solutions LLC,MD,United States
+2258,"Theragen, Inc.",VA,United States
+2259,Responsive Arthroscopy LLC,MN,United States
+2260,Servier Affaires Medicales,NA,France
+2261,PROCEPT BioRobotics Corporation,CA,United States
+2262,US Retina LLC,CO,United States
+2263,"Flexion Therapeutics, Inc.",MA,United States
+2264,Axis360 Surgical Inc,AK,United States
+2265,Institut de Recherches Internationales Servier,NA,France
+2266,Les Laboratoires Servier,NA,France
+2267,ADIR,NA,France
+2268,"BrainScope Company, Inc.",MD,United States
+2269,"TOPCON HEALTHCARE SOLUTIONS, INC.",NJ,United States
+2270,Lupin Inc.,MD,United States
+2271,ReShape Lifesciences Inc.,CA,United States
+2272,"Semler Scientific, Inc.",CA,United States
+2273,"Ricoh USA, Inc",PA,United States
+2274,Sensible Medical Innovations Inc,NJ,United States
+2275,"Sprout Pharmaceuticals, Inc.",NC,United States
+2276,"AMDT Holdings, Inc.",TN,United States
+2277,Royal Biologics,NJ,United States
+2278,Lumenis Ltd.,NA,Israel
+2279,Lumenis (HK) Limited,NA,Hong Kong
+2280,Lumenis (Germany) GmbH,NA,Germany
+2281,Xellia Pharmaceuticals,IL,United States
+2282,Dynavax Technologies Corporation,CA,United States
+2283,"Ra Medical Systems, Inc.",CA,United States
+2284,Lumendi LLC,CT,United States
+2285,"CapsoVision, Inc.",CA,United States
+2286,Berman Instruments LLC,MA,United States
+2287,"East Louisiana Surgical Services, LLC",TN,United States
+2288,Radux Devices LLC,MN,United States
+2289,IntraVu Inc.,CA,United States
+2290,AV Medical Technologies Ltd.,NA,Israel
+2291,B. Braun Miethke GmbH & Co. KG,NA,Germany
+2292,"Adhera Therapeutics, Inc.",NC,United States
+2293,"Emmaus Medical, Inc.",CA,United States
+2294,"Circa Scientific, Inc.",CO,United States
+2295,"PolarityTE, Inc.",UT,United States
+2296,Venclose Inc.,CA,United States
+2297,Dova Pharmaceuticals,NC,United States
+2298,"Acutus Medical, Inc.",CA,United States
+2299,"Visant Medical, Inc.",CA,United States
+2300,"CURITEVA, LLC",AL,United States
+2301,Vascular Graft Solutions Inc,NJ,United States
+2302,Covis Pharma B.V.,NA,Switzerland
+2303,"One Surgical, Inc.",TN,United States
+2304,"Senseonics, Incorporated",MD,United States
+2305,"EyePoint Pharmaceuticals US, Inc.",MA,United States
+2306,"Foundation Fusion Solutions, LLC",OK,United States
+2307,"CutisPharma, Inc.",MA,United States
+2308,"Fujifilm Irvine Scientific, Inc.",CA,United States
+2309,OrganOx Ltd,NA,Great Britain (Uk)
+2310,Intellijoint Surgical Inc.,NA,Canada
+2311,"PracticeWell Pro Inc, dba The PBG",CA,United States
+2312,"AesDex, LLC",CA,United States
+2313,"Northgate Technologies, Inc.",IL,United States
+2314,Boston Foundation for Sight,MA,United States
+2315,"Aurobindo Pharma USA, Inc.",NJ,United States
+2316,Biotest AG,NA,Germany
+2317,"DGH Technology, Inc.",PA,United States
+2318,Teleflex LLC,PA,United States
+2319,"ANI Pharmaceuticals, Inc.",MN,United States
+2320,Philadelphia Medical Management Company LLC,PA,United States
+2321,Repro Med Systems Inc,NY,United States
+2322,"Breathe Technologies, Inc.",CA,United States
+2323,"FH Orthopedics, Inc.",IL,United States
+2324,HD LifeSciences LLC,MA,United States
+2325,"Amicus Therapeutics, Inc.",NJ,United States
+2326,Elucent Medical,MN,United States
+2327,"TETRAPHASE PHARMACEUTICALS, INC.",MA,United States
+2328,"Reprise Biomedical, Inc.",MN,United States
+2329,PBG PUERTO RICO LLC,PR,United States
+2330,"Neural Analytics, Inc.",CA,United States
+2331,"Jacobus Pharmaceutical Company, Inc.",NJ,United States
+2332,"Recibio, Inc.",TX,United States
+2333,Zentech Inc.,FL,United States
+2334,"BIOCODEX, INC.",CA,United States
+2335,Metuchen Pharmaceuticals,NJ,United States
+2336,"Ortho2, LLC",IA,United States
+2337,"Sage Therapeutics, Inc.",MA,United States
+2338,NX Development Corp.,KY,United States
+2339,Rapid Medical LTD,NA,Israel
+2340,"AcelRx Pharmaceuticals, Inc.",CA,United States
+2341,"Insmed, Inc.",NJ,United States
+2342,"Verastem, Inc.",MA,United States
+2343,Pacira CryoTech Incorporated,CA,United States
+2344,Medicem Inc.,MA,United States
+2345,UPJOHN US 1 LLC,NY,United States
+2346,"Secura Bio, Inc.",NV,United States
+2347,"Conetic Solutions, Inc.",SD,United States
+2348,Medaxis LLC,TX,United States
+2349,"MiRus, LLC",GA,United States
+2350,"Paratek Pharmaceuticals, Inc.",MA,United States
+2351,Sioux Surgical Inc,ND,United States
+2352,"Fortis Surgical, LLC",VA,United States
+2353,"Akcea Therapeutics, Inc.",MA,United States
+2354,OrthoGrid Systems Inc,UT,United States
+2355,"CATALYST PHARMACEUTICALS, INC.",FL,United States
+2356,Cosette Pharmaceuticals Inc.,NJ,United States
+2357,Stemline Therapeutics Inc.,NY,United States
+2358,"Cephea Valve Technologies, Inc.",IL,United States
+2359,Alnylam Pharmaceuticals Inc.,MA,United States
+2360,"Bioptics, Inc.",MA,United States
+2361,"Cardinal Health 105, Inc",OH,United States
+2362,"DERMIRA, INC.",CA,United States
+2363,MILLICENT US INC,NJ,United States
+2364,"Palette Life Sciences, Inc.",CA,United States
+2365,"Greenwich Biosciences, Inc.",CA,United States
+2366,Adaptive Biotechnologies Corporation,WA,United States
+2367,"Tyber Medical, LLC",PA,United States
+2368,AveXis,IL,United States
+2369,"CathWorks, Inc.",CA,United States
+2370,"Kala Pharmaceuticals, Inc.",MA,United States
+2371,GW Pharma Limited,NA,Great Britain (Uk)
+2372,GW Research Limited,NA,Great Britain (Uk)
+2373,phenox Inc.,CA,United States
+2374,"TherapeuticsMD, Inc.",FL,United States
+2375,"Curiteva, Inc.",AL,United States
+2376,"AQUESTIVE THERAPEUTICS, INC.",NJ,United States
+2377,Eyevance Pharmaceuticals LLC,TX,United States
+2378,Levita Magnetics International Corp,CA,United States
+2379,"Clarify Medical, Inc.",CA,United States
+2380,Carl Zeiss Meditec Cataract Technology Inc.,NV,United States
+2381,"Qiagen, LLC",MD,United States
+2382,Indivior Deutschland GmbH,NA,Germany
+2383,"DTE Oregon, Inc.",OR,United States
+2384,"Eton Pharmaceuticals, Inc.",IL,United States
+2385,"MIS Technologies, LLC",MN,United States
+2386,"Progenics Pharmaceuticals, Inc.",NY,United States
+2387,"TechMah Medical, LLC",TN,United States
+2388,Clinigen Inc,PA,United States
+2389,"Contego Medical, Inc",NC,United States
+2390,Coherus Biosciences Inc.,CA,United States
+2391,Adlon Therapeutics L.P.,CT,United States
+2392,Advanced Oxygen Therapy Inc.,CA,United States
+2393,QT Ultrasound LLC,CA,United States
+2394,"Kyocera Medical Technologies, Inc.",CA,United States
+2395,Merck KGaA,NA,Germany
+2396,Summ Cott Medical,IN,United States
+2397,"GT Medical Technologies, Inc",AZ,United States
+2398,"Panther Orthopedics, Inc.",CA,United States
+2399,"Relievant Medsystems, Inc.",MN,United States
+2400,CapsoPro Services LLC,CA,United States
+2401,"HealthMyne, Inc.",WI,United States
+2402,Mallinckrodt Enterprises LLC,MO,United States
+2403,"PLEXUS OPTIX, INC.",CA,United States
+2404,"American Rheumatology Network, LLC",SC,United States
+2405,"ClearPoint Neuro, Inc.",CA,United States
+2406,Curetis USA Inc.,CA,United States
+2407,"Sonavex, Inc.",MD,United States
+2408,"Joint Restoration Foundation, Inc.",CO,United States
+2409,Currax Pharmaceuticals LLC,NJ,United States
+2410,AKEBIA THERAPEUTICS INC,MA,United States
+2411,icotec Medical Inc.,NY,United States
+2412,"Imperative Care, INc",CA,United States
+2413,Koelis Inc.,MA,United States
+2414,"Embody, Inc.",VA,United States
+2415,DiaSorin S.p.A.,NA,Italy
+2416,"Fortovia Therapeutics, Inc.",NC,United States
+2417,BK Medical Holding Company Inc.,MA,United States
+2418,Neo Spine USA Inc,NJ,United States
+2419,UROCURE LLC,MN,United States
+2420,UIH Solutions  LLC,TX,United States
+2421,"Dompe US, Inc.",CA,United States
+2422,OSSIO Inc.,MA,United States
+2423,"Braemar Manufacturing, LLC",CA,United States
+2424,IMPULSE DYNAMICS (USA) INC.,NY,United States
+2425,HemoSonics LLC,VA,United States
+2426,"IlluminOss Medical, Inc.",RI,United States
+2427,Amryt Pharma Holdings Ltd,NA,Ireland
+2428,"Heraeus Medical Components, LLC",MN,United States
+2429,International Life Sciences,GA,United States
+2430,"Foundation Consumer Healthcare, LLC",PA,United States
+2431,Ironshore Pharmaceuticals Inc.,NJ,United States
