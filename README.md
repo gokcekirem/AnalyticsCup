@@ -1,6 +1,15 @@
 # AnalyticsCup
 Data Analytics Project
 
+This repository contains the code and extracts of the data for the 2020 Analytics Cup of Prof. Dr. Martin Bichler's _Business Analytics_ class at Technical University of Manhheim.
+Participating teams were asked to devise a classification model that predicts whether a phyician of the dataset had an ownership interests (i.e., held shares) of a pharmaceutical company which they have received payments from.
+
+The main challenge of the task was to engineer useful features that have predicte power over the target variable. Therefore, the script mainly focuses on data aggregation and modeling instead of other performance enhancing methods such as model selection.
+
+The trained model found in this repository was among the 15 best performing models submitted by all teams. It was awarded with the highest grade available (1.0). 
+
+Please find below excerpts of the data. Unfortunately, the payment dataset can not be uploaded here as github's filesize limit does not allow files larger than 25MB.
+
 ## Data Overview
 ### Companies
 
@@ -25,8 +34,4 @@ Data Analytics Project
 | 2 | 1 | 3 | 74.79 | 07/08/2014 | 1 | Cash or cash equivalent | Travel and Lodging | Larchmont | NY | United States | Yes | Individual | No | Yes | <em>NA</em> | Yes | 49708-754-41 | <em>NA</em> | <em>NA</em> | Drug | <em>NA</em> | <em>NA</em> | BROMSITE | <em>NA</em> | <em>NA</em> | Ophthalmology | <em>NA</em> | <em>NA</em> |
 | 3 | 2 | 1 | 11.00 | 05/08/2019 | 1 | In-kind items and services | Consulting Fee | <em>NA</em> | <em>NA</em> | <em>NA</em> | Yes | Entity | No | Yes | Educational Program | Yes | 10631-096-15 | 10631-122-04 | 10631-094-30 | Drug | Drug | Drug | Halog | ULTRAVATE | HALOG | Dermatology | Dermatology | Dermatology |
 
-## Data Preparation
 
-## Prediction
-
-## Discussion
